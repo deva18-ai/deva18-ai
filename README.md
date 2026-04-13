@@ -1,16 +1,84 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Devavardhan</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
-<!--
-**deva18-ai/deva18-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=deva18-ai&color=blue)
+![Followers](https://img.shields.io/github/followers/deva18-ai?style=social)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deva18-ai&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/deva18-ai?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/deva18-ai?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+- 💻 Building real-world tech solutions  
+- 🌆 Creator of Smart City Full Stack Project  
+- 🤖 Passionate about AI & Automation  
+- 📈 Learning scalable system design  
+
+---
+
+## 🚀 Featured Project
+### 🌆 Smart City Project  
+🔗 https://github.com/deva18-ai/Smart-City-Project  
+
+✔ Full-stack system (React + Spring Boot)  
+✔ Traffic, Energy & Disaster Simulation  
+✔ Real-world urban problem solving  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva18-ai&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=deva18-ai&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Contribution Graph (Animation 🔥)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deva18-ai&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/deva18-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 I turn real-world problems into smart tech solutions 🚀
