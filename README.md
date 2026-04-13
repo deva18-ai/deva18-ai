@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devavardhan</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deva18-ai/deva18-ai/main/profile.jpg.jpg" width="300" style="border-radius:50%;" />
+  <img src="profile.jpg.jpeg" width="250"/>
 </p>
 
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
