@@ -49,7 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva18-ai&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -89,3 +88,5 @@
 💡 I turn real-world problems into smart tech solutions 🚀
    Full-Stack Developer 
    Building scalable web & mobile applications Passionate about solving real-world problems through technology Skilled in modern frame
+
+&cache_seconds=86400
