@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devavardhan</h1>
+<img src="file:///C:/Users/Devavardhan%20MI/OneDrive/Pictures/Camera%20Roll/IMG-20260131-WA007225.jpg.jpeg" width="100%" />
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deva18-ai&color=blue)
