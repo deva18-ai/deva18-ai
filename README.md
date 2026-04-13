@@ -83,3 +83,5 @@
 
 ## ⚡ Fun Fact
 💡 I turn real-world problems into smart tech solutions 🚀
+   Full-Stack Developer 
+   Building scalable web & mobile applications Passionate about solving real-world problems through technology Skilled in modern frame
