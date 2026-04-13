@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devavardhan</h1>
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/deva18-ai/deva18-ai/main/banner.png](https://github.com/deva18-ai/deva18-ai/blob/main/IMG-20260131-WA0075.jpg.jpeg)" />
+  <img src="[https://raw.githubusercontent.com/deva18-ai/deva18-ai/main/banner.png](https://github.com/deva18-ai/deva18-ai/blob/main/IMG-20260131-WA0075.jpeg)" />
 </p>
 <img src="file:///C:/Users/Devavardhan%20MI/OneDrive/Pictures/Camera%20Roll/IMG-20260131-WA007225.jpg.jpeg" width="100%" />
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
