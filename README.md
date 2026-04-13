@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight&cache_seconds=86400)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva18-ai&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva18-ai&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 ---
 
@@ -89,4 +89,4 @@
    Full-Stack Developer 
    Building scalable web & mobile applications Passionate about solving real-world problems through technology Skilled in modern frame
 
-&cache_seconds=86400
+ 
