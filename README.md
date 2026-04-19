@@ -6,13 +6,9 @@
 
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=deva18-ai&color=blue)
-![Followers](https://img.shields.io/github/followers/deva18-ai?style=social)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deva18-ai&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/deva18-ai?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/deva18-ai?affiliations=OWNER%2CCOLLABORATOR&style=social" />
 </p>
 
 ---
@@ -46,7 +42,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight&cache_seconds=86400)" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
@@ -59,10 +55,18 @@
 
 ---
 
-## 🧠 Contribution Graph (Animation 🔥)
+## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deva18-ai&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva18-ai&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deva18-ai&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -88,11 +92,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## ⚡ Fun Fact
-💡 I turn real-world problems into smart tech solutions 🚀
-   Full-Stack Developer 
-   Building scalable web & mobile applications Passionate about solving real-world problems through technology Skilled in modern frame
-
- 
+💡 I turn real-world problems into smart tech solutions 🚀  
+Full-Stack Developer building scalable web & mobile applications  
+Passionate about solving real-world problems through technology  
