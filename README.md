@@ -3,13 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:111827,100:2563EB&height=190&section=header&text=DEVAVARDHAN%20M%20I&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20%7C%20AI%20%7C%20CYBERSECURITY%20%7C%20BLOCKCHAIN&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+real-world+software+solutions;Exploring+AI+and+Cybersecurity;Designing+full-stack+systems;Learning+%7C+Building+%7C+Securing+%7C+Innovating" alt="Typing animation"/>
-<br/>
 </div>
-<div align="center">
-
 ## ABOUT ME
-
-</div>
 
 <table>
 <tr>
@@ -17,11 +12,7 @@
 
 <img src="assets/devavardhan-profile.jpg" width="220" alt="DEVAVARDHAN M I"/>
 
-<br/><br/>
-
 <b>DEVAVARDHAN M I</b>
-
-<br/>
 
 <sub>Cyber Security · SKCET</sub><br/>
 <sub>Coimbatore, Tamil Nadu, India</sub>
@@ -35,16 +26,12 @@ I'm a **Cyber Security student and developer** focused on building practical sol
 
 I enjoy working across the complete engineering cycle — from **UI and API design** to **databases, system architecture, testing and security**.
 
-<br/>
-
 | Focus Area | What I Work On |
 |:---|:---|
 | 💻 **Full-Stack** | Web applications · REST APIs · Databases · System architecture |
 | 🤖 **AI & Vision** | AI applications · Computer vision · Automation |
 | 🔐 **Cybersecurity** | Secure application design · Identity & access · Security-focused systems |
 | ⛓️ **Blockchain** | Smart contracts · Digital identity · Web3 applications |
-
-<br/>
 
 **Engineering mindset:** Understand → Design → Build → Test → Secure → Improve
 
@@ -54,7 +41,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 ---
 
-# Skills & Tools
+## Skills & Tools
 
 <div align="center">
 
@@ -116,7 +103,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 ---
 
-# Soft Skills
+## Soft Skills
 
 <div align="center">
 
@@ -150,7 +137,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -222,7 +209,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 </tr>
 </table>
 
-# GitHub Dashboard
+## GitHub Dashboard
 
 <div align="center">
 
@@ -251,8 +238,6 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 </td>
 </tr>
 </table>
-
-<br/>
 
 <table>
 <tr>
@@ -296,8 +281,6 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 </tr>
 </table>
 
-<br/>
-
 ### Development Activity
 
 <table>
@@ -315,15 +298,13 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 </tr>
 </table>
 
-<br/>
-
 <a href="https://github.com/deva18-ai">
 <img src="https://img.shields.io/badge/VIEW_FULL_GITHUB_PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View full GitHub profile"/>
 </a>
 
 </div>
 
-# Current Focus
+## Current Focus
 
 <div align="center">
 
@@ -382,8 +363,6 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 </tr>
 </table>
-
-<br/>
 
 <table>
 <tr>
@@ -446,6 +425,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 </td>
 </tr>
 </table>
+
 ---
 
 # Let's Connect
@@ -458,7 +438,6 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 ### GitHub
 <sub>Projects · Code · Collaboration</sub>
-<br/><br/>
 <a href="https://github.com/deva18-ai">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -468,7 +447,6 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 ### LinkedIn
 <sub>Professional · Networking · Opportunities</sub>
-<br/><br/>
 <a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -478,7 +456,6 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 ### Email
 <sub>Projects · Collaboration · Contact</sub>
-<br/><br/>
 <a href="mailto:devavardhanmohanraj@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -488,7 +465,6 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 ### Instagram
 <sub>Creative · Personal · Updates</sub>
-<br/><br/>
 <a href="https://www.instagram.com/r.a.g.a_0618/">
 <img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
@@ -497,15 +473,9 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 </tr>
 </table>
 
-<br/>
-
 <strong>OPEN TO BUILDING · LEARNING · COLLABORATING</strong>
 
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Build+with+purpose.;Learn+continuously.;Secure+by+design.;Keep+shipping." alt="Footer animation"/>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:111827,100:0B1220&height=120&section=footer&animation=fadeIn" width="100%"/>
 
