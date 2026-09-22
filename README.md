@@ -85,7 +85,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 </tr>
 
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=ethereum&theme=dark" width="48"/><br/><sub><b>Ethereum</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="38" alt="Ethereum"/><br/><sub><b>Ethereum</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/><sub><b>Linux</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48"/><br/><sub><b>Nginx</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/><br/><sub><b>Figma</b></sub></td>
@@ -391,6 +391,14 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 </div>
 
+## Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deva18-ai&theme=github_dark" width="96%" alt="GitHub profile summary"/>
+
+</div>
+
 # Coding Profiles
 
 <div align="center">
@@ -425,7 +433,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 <table>
 <tr>
 <td align="center" width="25%"><a href="https://github.com/deva18-ai"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub"/></a><br/><strong>GitHub</strong><br/><sub>Projects & Code</sub></td>
-<td align="center" width="25%"><a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/></a><br/><strong>LinkedIn</strong><br/><sub>Professional Network</sub></td>
+<td align="center" width="25%"><a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br/><strong>LinkedIn</strong><br/><sub>Professional Network</sub></td>
 <td align="center" width="25%"><a href="mailto:devavardhanmohanraj@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Email"/></a><br/><strong>Email</strong><br/><sub>Let's Collaborate</sub></td>
 <td align="center" width="25%"><a href="https://www.instagram.com/r.a.g.a_0618/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram"/></a><br/><strong>Instagram</strong><br/><sub>Creative Updates</sub></td>
 </tr>
@@ -437,6 +445,8 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 
 <div align="center">
+
+**💖 Built with love by Devavardhan M I** &nbsp; • &nbsp; **⚡ Always open for collaborations**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Always+Learning;Always+Building;Always+Improving;Always+Exploring+Technology" alt="Footer typing animation"/>
 
