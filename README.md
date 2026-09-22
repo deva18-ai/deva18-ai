@@ -402,13 +402,9 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 />
 
 <br><br>
-
 <strong>GitHub Contribution Activity</strong>
-
 <br>
-
 <sub>Building • Learning • Contributing • Improving</sub>
-
 </div>
 
 
