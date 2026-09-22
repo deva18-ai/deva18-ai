@@ -393,6 +393,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 # Coding Profiles
 
+<div align="center">
 <table>
 <tr>
 <td width="33.33%" align="center" valign="middle">
@@ -433,10 +434,10 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 <table>
 <tr>
-<td align="center" width="25%"><b>GitHub</b><br/><sub>Code · Projects · Open Source</sub><br/><a href="https://github.com/deva18-ai"><img src="https://img.shields.io/badge/VIEW_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></td>
-<td align="center" width="25%"><b>LinkedIn</b><br/><sub>Professional · Networking</sub><br/><a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
-<td align="center" width="25%"><b>Email</b><br/><sub>Projects · Collaboration</sub><br/><a href="mailto:devavardhanmohanraj@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></td>
-<td align="center" width="25%"><b>Instagram</b><br/><sub>Creative · Updates</sub><br/><a href="https://www.instagram.com/r.a.g.a_0618/"><img src="https://img.shields.io/badge/FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a></td>
+<td align="center" width="25%"><b>GitHub</b><br/><sub></sub><br/><a href="https://github.com/deva18-ai"><img src="https://img.shields.io/badge/VIEW_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></td>
+<td align="center" width="25%"><b>LinkedIn</b><br/><sub></sub><br/><a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+<td align="center" width="25%"><b>Email</b><br/><sub></sub><br/><a href="mailto:devavardhanmohanraj@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></td>
+<td align="center" width="25%"><b>Instagram</b><br/><sub></sub><br/><a href="https://www.instagram.com/r.a.g.a_0618/"><img src="https://img.shields.io/badge/FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a></td>
 </tr>
 </table>
 
