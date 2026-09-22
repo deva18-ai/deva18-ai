@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+real-world+software+solutions;Exploring+AI+and+Cybersecurity;Designing+full-stack+systems;Learning+%7C+Building+%7C+Securing+%7C+Innovating" alt="Typing animation"/>
 </div>
-## **ABOUT ME**
+<h2><strong>ABOUT ME</strong></h2>
 
 <table>
 <tr>
@@ -394,38 +394,28 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 # Coding Profiles
 
 <div align="center">
+
 <table>
 <tr>
-<td width="33.33%" align="center" valign="middle">
-
-### 🟡 LeetCode
-
-<a href="https://leetcode.com/u/Devavardhan_0618/">
-<img src="https://img.shields.io/badge/PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/>
-</a>
-
+<td align="center" width="33.33%" valign="middle">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode"/><br/>
+<strong>LeetCode</strong><br/>
+<a href="https://leetcode.com/u/Devavardhan_0618/"><img src="https://img.shields.io/badge/OPEN_PROFILE-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="Open LeetCode profile"/></a>
 </td>
-<td width="33.33%" align="center" valign="middle">
-
-### 🟢 HackerRank
-
-<a href="https://www.hackerrank.com/profile/Devavardhan_0618">
-<img src="https://img.shields.io/badge/PROFILE-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile"/>
-</a>
-
+<td align="center" width="33.33%" valign="middle">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="42" alt="HackerRank"/><br/>
+<strong>HackerRank</strong><br/>
+<a href="https://www.hackerrank.com/profile/Devavardhan_0618"><img src="https://img.shields.io/badge/OPEN_PROFILE-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="Open HackerRank profile"/></a>
 </td>
-<td width="33.33%" align="center" valign="middle">
-
-### 🔵 HackerEarth
-
-<a href="https://www.hackerearth.com/@Devavardhan_0618/">
-<img src="https://img.shields.io/badge/PROFILE-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth profile"/>
-</a>
-
+<td align="center" width="33.33%" valign="middle">
+<img src="https://cdn.simpleicons.org/hackerearth/2C3454" width="42" alt="HackerEarth"/><br/>
+<strong>HackerEarth</strong><br/>
+<a href="https://www.hackerearth.com/@Devavardhan_0618/"><img src="https://img.shields.io/badge/OPEN_PROFILE-2C3454?style=flat-square&logo=hackerearth&logoColor=white" alt="Open HackerEarth profile"/></a>
 </td>
 </tr>
 </table>
 
+</div>
 ---
 
 # Let's Connect
@@ -434,11 +424,22 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 <table>
 <tr>
-<td align="center" width="25%"><b>GitHub</b><br/><sub></sub><br/><a href="https://github.com/deva18-ai"><img src="https://img.shields.io/badge/VIEW_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></td>
-<td align="center" width="25%"><b>LinkedIn</b><br/><sub></sub><br/><a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
-<td align="center" width="25%"><b>Email</b><br/><sub></sub><br/><a href="mailto:devavardhanmohanraj@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></td>
-<td align="center" width="25%"><b>Instagram</b><br/><sub></sub><br/><a href="https://www.instagram.com/r.a.g.a_0618/"><img src="https://img.shields.io/badge/FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a></td>
+<td align="center" width="25%"><a href="https://github.com/deva18-ai"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub"/></a><br/><strong>GitHub</strong><br/><sub>Projects & Code</sub></td>
+<td align="center" width="25%"><a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/></a><br/><strong>LinkedIn</strong><br/><sub>Professional Network</sub></td>
+<td align="center" width="25%"><a href="mailto:devavardhanmohanraj@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Email"/></a><br/><strong>Email</strong><br/><sub>Let's Collaborate</sub></td>
+<td align="center" width="25%"><a href="https://www.instagram.com/r.a.g.a_0618/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram"/></a><br/><strong>Instagram</strong><br/><sub>Creative Updates</sub></td>
 </tr>
 </table>
+
+</div>
+
+---
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Always+Learning;Always+Building;Always+Improving;Always+Exploring+Technology" alt="Footer typing animation"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:111827,100:0B1220&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
 
 </div>
