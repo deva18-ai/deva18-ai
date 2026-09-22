@@ -233,21 +233,72 @@ I like working across the complete engineering flow — **frontend → API → d
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva18-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<a href="https://github.com/deva18-ai?tab=repositories">
+<img src="https://img.shields.io/github/repos/deva18-ai?style=for-the-badge&logo=github&logoColor=white&label=PUBLIC%20REPOSITORIES&color=2563EB" alt="Public repositories"/>
+</a>
+&nbsp;
+<a href="https://github.com/deva18-ai?tab=followers">
+<img src="https://img.shields.io/github/followers/deva18-ai?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=111827" alt="Followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/deva18-ai">
+<img src="https://img.shields.io/github/stars/deva18-ai?style=for-the-badge&logo=github&logoColor=white&label=PROFILE%20STARS&color=2563EB" alt="Profile stars"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=deva18-ai&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻
+**BUILD**
+
+<sub>Full-Stack<br/>Applications</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+**EXPLORE**
+
+<sub>AI &<br/>Computer Vision</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🔐
+**SECURE**
+
+<sub>Cybersecurity &<br/>Identity</sub>
+
+</td>
+<td align="center" width="25%">
+
+### ⛓️
+**EXPERIMENT**
+
+<sub>Blockchain &<br/>Web3</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Development Activity
+
+<img src="https://img.shields.io/github/commit-activity/y/deva18-ai/deva18-ai?style=flat-square&label=PROFILE%20REPO%20COMMITS&color=2563EB" alt="Profile repository commit activity"/>
+&nbsp;
+<img src="https://img.shields.io/github/last-commit/deva18-ai/deva18-ai?style=flat-square&label=LAST%20PROFILE%20UPDATE&color=111827" alt="Last profile update"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deva18-ai&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="94%" alt="Contribution activity"/>
+<a href="https://github.com/deva18-ai">
+<img src="https://img.shields.io/badge/VIEW_FULL_GITHUB_ACTIVITY-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View full GitHub activity"/>
+</a>
 
 </div>
-
----
 
 # Current Focus
 
