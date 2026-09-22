@@ -233,52 +233,27 @@ I like working across the complete engineering flow — **frontend → API → d
 
 <div align="center">
 
-<a href="https://github.com/deva18-ai?tab=repositories">
-<img src="https://img.shields.io/github/repos/deva18-ai?style=for-the-badge&logo=github&logoColor=white&label=PUBLIC%20REPOSITORIES&color=2563EB" alt="Public repositories"/>
-</a>
-&nbsp;
-<a href="https://github.com/deva18-ai?tab=followers">
-<img src="https://img.shields.io/github/followers/deva18-ai?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=111827" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/deva18-ai">
-<img src="https://img.shields.io/github/stars/deva18-ai?style=for-the-badge&logo=github&logoColor=white&label=PROFILE%20STARS&color=2563EB" alt="Profile stars"/>
-</a>
-
-<br/><br/>
-
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 💻
-**BUILD**
-
-<sub>Full-Stack<br/>Applications</sub>
-
-</td>
-<td align="center" width="25%">
-
-### 🤖
-**EXPLORE**
-
-<sub>AI &<br/>Computer Vision</sub>
+<a href="https://github.com/deva18-ai?tab=followers">
+<img src="https://img.shields.io/github/followers/deva18-ai?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=2563EB" alt="GitHub followers"/>
+</a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🔐
-**SECURE**
-
-<sub>Cybersecurity &<br/>Identity</sub>
+<a href="https://github.com/deva18-ai?tab=repositories">
+<img src="https://img.shields.io/github/stars/deva18-ai?style=for-the-badge&logo=github&logoColor=white&label=PROFILE%20STARS&color=2563EB" alt="GitHub profile stars"/>
+</a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### ⛓️
-**EXPERIMENT**
-
-<sub>Blockchain &<br/>Web3</sub>
+<a href="https://github.com/deva18-ai">
+<img src="https://komarev.com/ghpvc/?username=deva18-ai&style=for-the-badge&color=111827&label=PROFILE%20VIEWS" alt="Profile views"/>
+</a>
 
 </td>
 </tr>
@@ -286,16 +261,71 @@ I like working across the complete engineering flow — **frontend → API → d
 
 <br/>
 
+<table>
+<tr>
+
+<td align="center" width="25%" valign="middle">
+
+### 💻
+**BUILD**
+
+<sub>Full-Stack<br/>Applications</sub>
+
+</td>
+
+<td align="center" width="25%" valign="middle">
+
+### 🤖
+**EXPLORE**
+
+<sub>AI &<br/>Computer Vision</sub>
+
+</td>
+
+<td align="center" width="25%" valign="middle">
+
+### 🔐
+**SECURE**
+
+<sub>Cybersecurity<br/>& Identity</sub>
+
+</td>
+
+<td align="center" width="25%" valign="middle">
+
+### ⛓️
+**EXPERIMENT**
+
+<sub>Blockchain<br/>& Web3</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
 ### Development Activity
 
-<img src="https://img.shields.io/github/commit-activity/y/deva18-ai/deva18-ai?style=flat-square&label=PROFILE%20REPO%20COMMITS&color=2563EB" alt="Profile repository commit activity"/>
-&nbsp;
-<img src="https://img.shields.io/github/last-commit/deva18-ai/deva18-ai?style=flat-square&label=LAST%20PROFILE%20UPDATE&color=111827" alt="Last profile update"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br/><br/>
+<img src="https://img.shields.io/github/commit-activity/y/deva18-ai/deva18-ai?style=for-the-badge&label=COMMITS%20THIS%20YEAR&color=2563EB" alt="Profile repository commits this year"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/github/last-commit/deva18-ai/deva18-ai?style=for-the-badge&label=LAST%20PROFILE%20UPDATE&color=111827" alt="Last profile update"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <a href="https://github.com/deva18-ai">
-<img src="https://img.shields.io/badge/VIEW_FULL_GITHUB_ACTIVITY-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View full GitHub activity"/>
+<img src="https://img.shields.io/badge/VIEW_FULL_GITHUB_PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View full GitHub profile"/>
 </a>
 
 </div>
