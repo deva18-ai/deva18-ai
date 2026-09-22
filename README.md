@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=190&section=header&text=DEVAVARDHAN%20MOHANRAJ&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20CYBERSECURITY%20BUILDER&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/deva18-ai/deva18-ai/main/assets/devavardhan-banner.svg" width="100%" alt="Devavardhan — Full-Stack Development, AI, Cybersecurity and Blockchain"/>
 
-<a href="https://github.com/deva18-ai">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+real-world+software+with+full-stack+%2B+AI;Exploring+Cybersecurity+and+Blockchain+identity;Designing+scalable+full-stack+applications;Turning+ideas+into+working+products" alt="Typing animation" />
-</a>
+<br/>
+
+<a href="https://github.com/deva18-ai"><img src="https://komarev.com/ghpvc/?username=deva18-ai&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB" alt="Profile views"/></a>
+&nbsp;
+<a href="https://github.com/deva18-ai?tab=followers"><img src="https://img.shields.io/github/followers/deva18-ai?style=for-the-badge&label=FOLLOWERS&color=161B22" alt="Followers"/></a>
+
+</div>
 
 <br/>
 
