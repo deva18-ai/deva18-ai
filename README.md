@@ -395,7 +395,9 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deva18-ai&theme=github_dark" width="96%" alt="GitHub profile summary"/>
+<a href="https://github.com/deva18-ai">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deva18-ai&theme=github-compact&hide_border=true&area=true" width="96%" alt="DEVAVARDHAN M I GitHub activity graph"/>
+</a>
 
 </div>
 
