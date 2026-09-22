@@ -334,13 +334,91 @@ I like working across the complete engineering flow — **frontend → API → d
 
 <div align="center">
 
-| 🔐 Cybersecurity | 🤖 AI Applications | 💻 Full-Stack Systems | ⛓️ Blockchain | 🏆 Hackathons |
-|:---:|:---:|:---:|:---:|:---:|
-| Secure systems | Intelligent apps | APIs & databases | Web3 & identity | Build & learn |
+<table>
+<tr>
+
+<td align="center" width="20%" valign="top">
+
+### 🔐
+
+**CYBERSECURITY**
+
+<sub>Secure systems<br/>Identity & access<br/>Threat awareness</sub>
+
+</td>
+
+<td align="center" width="20%" valign="top">
+
+### 🤖
+
+**ARTIFICIAL INTELLIGENCE**
+
+<sub>AI applications<br/>Computer vision<br/>Intelligent automation</sub>
+
+</td>
+
+<td align="center" width="20%" valign="top">
+
+### 💻
+
+**FULL-STACK ENGINEERING**
+
+<sub>Modern interfaces<br/>APIs & databases<br/>System architecture</sub>
+
+</td>
+
+<td align="center" width="20%" valign="top">
+
+### ⛓️
+
+**BLOCKCHAIN**
+
+<sub>Smart contracts<br/>Digital identity<br/>Web3 systems</sub>
+
+</td>
+
+<td align="center" width="20%" valign="top">
+
+### 🏆
+
+**HACKATHONS**
+
+<sub>Rapid prototyping<br/>Team building<br/>Real-world problems</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**LEARN**
+
+<sub>Explore technologies, patterns and tools.</sub>
+
+</td>
+<td align="center" width="33%">
+
+**BUILD**
+
+<sub>Turn ideas into working prototypes.</sub>
+
+</td>
+<td align="center" width="33%">
+
+**IMPROVE**
+
+<sub>Test, secure and refine every iteration.</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
 
 # Let's Connect
 
