@@ -1,232 +1,313 @@
 <div align="center">
 
-# Hi, I'm Devavardhan 👋
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### Full-Stack Developer · AI Enthusiast · Cybersecurity Builder
+<!-- ANIMATED HERO -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+real-world+software+solutions;Exploring+AI%2C+Cybersecurity+%26+Automation;Designing+full-stack+applications;Turning+ideas+into+working+products" alt="Typing SVG" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=DEVAVARDHAN&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cybersecurity%20Builder&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<!-- PROFILE PHOTO -->
-
-<!-- Replace this image with your profile photo when ready -->
-
-<img src="assets/profile.jpg" width="190" alt="Devavardhan">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+real-world+software+solutions;Exploring+AI+%26+Cybersecurity;Designing+full-stack+applications;Turning+ideas+into+working+products;Learning+%7C+Building+%7C+Securing+%7C+Innovating" alt="Typing Animation"/>
 
 <br><br>
 
-<a href="https://github.com/deva18-ai">
-<img src="https://komarev.com/ghpvc/?username=deva18-ai&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile Views">
-</a>
-&nbsp;
-<a href="https://github.com/deva18-ai?tab=followers">
-<img src="https://img.shields.io/github/followers/deva18-ai?style=for-the-badge&label=FOLLOWERS&color=161b22" alt="GitHub Followers">
-</a>
+<!-- PROFILE IMAGE -->
+
+<!-- Replace assets/profile.jpg with your personal photo -->
+
+<img src="assets/profile.jpg" width="185" alt="Devavardhan"/>
+
+<br><br>
+
+<a href="https://github.com/deva18-ai"> <img src="https://komarev.com/ghpvc/?username=deva18-ai&label=PROFILE+VIEWS&style=for-the-badge&color=1F6FEB" alt="Profile Views"/> </a>
+
+<a href="https://github.com/deva18-ai?tab=followers"> <img src="https://img.shields.io/github/followers/deva18-ai?style=for-the-badge&label=FOLLOWERS&color=161B22" alt="GitHub Followers"/> </a>
 
 </div>
 
----
-
-## 🧭 About Me
-
-I'm **M. I. Devavardhan**, a developer from **Coimbatore, Tamil Nadu**, interested in building technology that solves practical problems.
-
-My interests sit at the intersection of:
-
-* 💻 **Full-Stack Development**
-* 🤖 **Artificial Intelligence & Automation**
-* 🔐 **Cybersecurity**
-* 🌐 **Web Applications & APIs**
-* ⛓️ **Blockchain & Decentralized Systems**
-* 🧠 **Problem Solving & System Design**
-
-I enjoy taking an idea from **concept → architecture → implementation → deployment** and turning it into something people can actually use.
-
-> **I don't just learn technologies — I build with them.**
-
----
-
-## ⚡ What I Build
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   AI                FULL STACK             SECURITY         │
-│   ──                ──────────             ────────         │
-│   • AI Systems      • React                • Cybersecurity  │
-│   • Computer Vision • REST APIs            • Secure Apps    │
-│   • Automation      • Backend Systems      • Blockchain     │
-│   • Intelligent UX  • Databases            • Identity      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-I particularly enjoy projects where multiple technologies come together to solve a real-world problem.
-
----
-
-# 🚀 Featured Projects
+👋 About Me
 
 <div align="center">
 
-<a href="https://github.com/deva18-ai/SecureChain">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deva18-ai&repo=SecureChain&theme=tokyonight&hide_border=true" />
-</a>
+<table> <tr> <td width="32%" align="center">
 
-<a href="https://github.com/deva18-ai/Vaultcore">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deva18-ai&repo=Vaultcore&theme=tokyonight&hide_border=true" />
-</a>
+<img src="assets/profile.jpg" width="240" alt="Devavardhan"/>
+
+</td>
+
+<td width="68%">
+
+M. I. Devavardhan
+
+Full-Stack Developer • AI Enthusiast • Cybersecurity Builder
+
+📍 Coimbatore, Tamil Nadu, India
+
+🎓 Cyber Security — Sri Krishna College of Engineering and Technology
+
+💻 Interested in Full-Stack Development
+
+🤖 Exploring Artificial Intelligence & Automation
+
+🔐 Building with Cybersecurity & Secure Systems
+
+⛓️ Exploring Blockchain & Decentralized Applications
+
+🧠 Passionate about Problem Solving & System Design
+
+I enjoy taking an idea from:
+
+Idea → Architecture → Development → Testing → Deployment
+
+and turning it into a practical working solution.
+
+</td> </tr> </table>
 
 </div>
 
-### 🔐 SecureChain
-
-**Decentralized Identity & Asset Access Control**
-
-A blockchain-based platform designed around decentralized identity, role-based access control and digital asset ownership.
-
-**Focus:** Blockchain · Smart Contracts · Identity · Access Control · Full Stack
-
----
-
-### 🏙️ Smart City Project
-
-**Full-Stack Smart City Platform**
-
-A full-stack application focused on building technology-driven solutions for urban environments.
-
-**Focus:** React · Spring Boot · APIs · Full-Stack Development
-
----
-
-### 🚦 AI Traffic Analyser
-
-**AI-powered Traffic Analysis Platform**
-
-A computer-vision-based project for analysing traffic-related data and presenting the results through a web application.
-
-**Focus:** AI · Computer Vision · Python · React · Full Stack
+⚡ What I Build
 
 <div align="center">
 
-<a href="https://github.com/deva18-ai/AI-Traffic-Analyser-Demo">Demo Repository</a>
-  •   <a href="https://github.com/deva18-ai/AI-Traffic-Analyser-Full-Stack">Full-Stack Repository</a>
+🤖 Artificial Intelligence	💻 Full Stack	🔐 Cybersecurity	⛓️ Blockchain
+AI Applications	React Applications	Secure Systems	Smart Contracts
+Computer Vision	REST APIs	Authentication	Digital Identity
+Automation	Backend Systems	Access Control	Web3
+Intelligent Tools	Databases	Threat Detection	Decentralized Apps
 
 </div>
 
----
+<br>
 
-### 🛡️ Honeytrap
+              ┌─────────────────────────────────┐
+              │          IDEA / PROBLEM          │
+              └────────────────┬────────────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │     ARCHITECTURE    │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+        ┌──────────┐     ┌──────────┐     ┌──────────┐
+        │    AI    │     │FULL STACK│     │ SECURITY │
+        └────┬─────┘     └────┬─────┘     └────┬─────┘
+             │                │                │
+             └────────────────┼────────────────┘
+                              ▼
+                    ┌─────────────────────┐
+                    │  BUILD • TEST • FIX │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      DEPLOY 🚀      │
+                    └─────────────────────┘
+🧰 Skills & Tools
 
-**Security-focused project exploring deceptive systems and threat detection concepts.**
+<div align="center">
 
-**Focus:** Cybersecurity · Security Engineering · Threat Detection
-
----
-
-### 🧠 AI Healthcare
-
-An experimental AI-focused project exploring the application of intelligent systems within healthcare-related workflows.
-
-**Focus:** Artificial Intelligence · Python · Intelligent Applications
-
----
-
-# 🧰 Technology Stack
-
-### Languages
-
-<p align="center">
+Languages
 
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" />
 
-</p>
+<br><br>
 
-### Frontend
-
-<p align="center">
+Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript" />
 
-</p>
+<br><br>
 
-### Backend & Databases
-
-<p align="center">
+Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mysql,mongodb" />
 
-</p>
+<br><br>
 
-### AI / Development / DevOps
+Development & DevOps
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 
-<img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,postman" />
+<br><br>
 
-</p>
+AI / Computer Vision
 
-### Security & Web3
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
 
-<p align="center">
+<br><br>
+
+Blockchain / Web3
 
 <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
 
-</p>
+</div>
 
----
-
-# 🧩 My Development Approach
+🧠 Soft Skills
 
 <div align="center">
 
-| Phase | What I Focus On                                                    |
-| :---: | :----------------------------------------------------------------- |
-|  `01` | 💡 **Problem** — Understand the real-world challenge               |
-|  `02` | 🏗️ **Architecture** — Design the system and technology stack      |
-|  `03` | ⚙️ **Build** — Develop frontend, backend and integrations          |
-|  `04` | 🔐 **Secure** — Think about authentication, authorization and data |
-|  `05` | 🧪 **Test** — Debug, validate and improve                          |
-|  `06` | 🚀 **Deploy** — Turn the project into something usable             |
+<table> <tr> <td align="center">💬<br><b>Communication</b></td> <td align="center">🤝<br><b>Team Collaboration</b></td> <td align="center">💡<br><b>Problem Solving</b></td> <td align="center">🎯<br><b>Ownership</b></td> <td align="center">🧠<br><b>Critical Thinking</b></td> </tr>
+
+<tr> <td align="center">🔍<br><b>Debugging</b></td> <td align="center">📚<br><b>Continuous Learning</b></td> <td align="center">🚀<br><b>Innovation</b></td> <td align="center">⏱️<br><b>Time Management</b></td> <td align="center">🔐<br><b>Security Mindset</b></td> </tr> </table>
 
 </div>
 
----
-
-# 🌱 Currently Exploring
-
-```yaml
-Cybersecurity:
-  - Secure application development
-  - Threat detection
-  - Identity & access control
-
-Artificial Intelligence:
-  - Computer Vision
-  - AI-powered applications
-  - Intelligent automation
-
-Full Stack:
-  - Scalable backend architecture
-  - REST APIs
-  - Modern frontend development
-
-Blockchain:
-  - Smart contracts
-  - Decentralized identity
-  - Web3 applications
-```
-
----
-
-# 📊 GitHub Analytics
+🚀 Featured Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+🔐 SecureChain
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva18-ai&layout=compact&theme=tokyonight&hide_border=true" />
+Decentralized Identity & Digital Asset Access Control
+
+Blockchain-based platform combining decentralized identity, role-based access control and digital asset ownership.
+
+Tech: Solidity • Ethereum • FastAPI • React • PostgreSQL • Redis
+
+
+
+
+🏙️ Smart City Project
+
+Full-Stack Smart City Platform
+
+A full-stack application focused on technology-driven solutions for urban environments.
+
+Tech: React • Spring Boot • REST APIs • Database
+
+
+
+
+🚦 AI Traffic Analyser
+
+AI-Powered Traffic Analysis
+
+Computer-vision-based traffic analysis combined with a web interface.
+
+Tech: Python • AI • Computer Vision • React • Full Stack
+
+
+
+
+
+
+
+🛡️ Honeytrap
+
+Cybersecurity & Deception-Based Security Project
+
+A security-focused project exploring deceptive systems and threat detection concepts.
+
+Tech: Cybersecurity • Security Engineering • Threat Detection
+
+
+
+
+🧠 AI Healthcare
+
+AI-Based Healthcare Experimentation
+
+An AI-focused project exploring intelligent applications for healthcare-related workflows.
+
+Tech: Python • Artificial Intelligence • Intelligent Applications
+
+
+
+
+🔒 Vaultcore
+
+Security-Focused Application
+
+A project focused on secure application development and data protection concepts.
+
+
+
+
+</div>
+
+💼 Professional Experience
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+🚀 Full-Stack Development
+Building React-based interfaces
+Developing REST APIs
+Working with backend systems
+Database integration
+Deployment and debugging
+Full-stack application development
+
+</td>
+
+<td width="50%">
+
+🔐 Cybersecurity & Systems
+Secure application concepts
+Authentication & authorization
+Identity and access control
+Blockchain-based security
+Threat detection concepts
+Security-focused projects
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+Internships and professional experience: This section can be expanded with verified company names, internship titles, dates and responsibilities as they are added.
+
+🏆 Certifications & Learning
+
+<div align="center">
+
+Area	Learning Focus
+🤖 AI	Artificial Intelligence & Machine Learning
+📊 Data Science	Data Analysis & Data Science
+🧠 Deep Learning	Neural Networks & Deep Learning
+🐍 Python	Python Development
+🔐 Cybersecurity	Secure Application Development
+⛓️ Blockchain	Smart Contracts & Web3
+
+</div>
+
+Add your verified certification names, issuing organizations and certificate links here as you collect them.
+
+🧩 Development Approach
+
+<div align="center">
+
+Stage	Focus
+01	💡 Understand — Identify the real problem
+02	🏗️ Design — Plan architecture and technologies
+03	⚙️ Build — Develop the application
+04	🔐 Secure — Protect data and access
+05	🧪 Test — Debug and validate
+06	🚀 Deploy — Make the solution usable
+07	🔄 Improve — Learn from every iteration
+
+</div>
+
+📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva18-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -238,72 +319,94 @@ Blockchain:
 
 </div>
 
----
-
-# 📈 Contribution Activity
+📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deva18-ai&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deva18-ai&theme=tokyo-night&hide_border=true&area=true&custom_title=Devavardhan's%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
----
-
-# 🐍 Contribution Journey
+🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
----
-
-# 🎯 Goals
-
-* Build production-ready software
-* Strengthen my cybersecurity knowledge
-* Develop intelligent AI-powered applications
-* Improve system design and backend architecture
-* Participate in hackathons and technical projects
-* Contribute to open-source projects
-* Keep learning and experimenting with emerging technologies
-
----
-
-# 🤝 Let's Connect
+👀 Visitor Counter
 
 <div align="center">
 
-<a href="https://github.com/deva18-ai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=deva18-ai&label=PROFILE+VIEWS&style=for-the-badge&color=1F6FEB" alt="Profile Views"/>
 
-<a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br><br>
 
-<a href="mailto:devavardhanmohanraj@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/r.a.g.a_0618/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+Thanks for visiting my profile! 🚀
 
 </div>
 
----
+🎯 Current Goals
 
 <div align="center">
 
-### 🚀 Build. Learn. Secure. Innovate.
+<table>
 
-**Turning ideas into technology, one project at a time.**
+<tr> <td>💻 Build production-ready software</td> <td>🔐 Strengthen cybersecurity skills</td> </tr>
+
+<tr> <td>🤖 Develop AI-powered applications</td> <td>🏗️ Improve system design</td> </tr>
+
+<tr> <td>🚀 Participate in hackathons</td> <td>🌐 Contribute to open source</td> </tr>
+
+<tr> <td>⛓️ Explore blockchain technology</td> <td>📚 Keep learning & experimenting</td> </tr>
+
+</table>
+
+</div>
+
+🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/deva18-ai"> <img src="https://skillicons.dev/icons?i=github" width="55"/> </a> &nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/"> <img src="https://skillicons.dev/icons?i=linkedin" width="55"/> </a> &nbsp;&nbsp;
+
+<a href="mailto:devavardhanmohanraj@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="55"/> </a> &nbsp;&nbsp;
+
+<a href="https://www.instagram.com/r.a.g.a_0618/"> <img src="https://skillicons.dev/icons?i=instagram" width="55"/> </a>
+
+<br><br>
+
+<a href="https://github.com/deva18-ai">GitHub</a>
+  •  
+<a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/">LinkedIn</a>
+  •  
+<a href="mailto:devavardhanmohanraj@gmail.com">Email</a>
+  •  
+<a href="https://www.instagram.com/r.a.g.a_0618/">Instagram</a>
+
+</div>
+
+<div align="center">
+
+🚀 Build Real • Solve Problems • Leave Impact
+
+Turning ideas into technology, one project at a time.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Always+Learning;Always+Building;Always+Improving;Always+Exploring+Technology" alt="Footer Animation"/>
 
-</div>
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ANIMATED FOOTER -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+</div> ```
