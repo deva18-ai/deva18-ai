@@ -12,42 +12,46 @@
 
 <table>
 <tr>
-<td width="32%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
-<img src="assets/profile.jpg" width="220" alt="Devavardhan"/>
-
-<br/><br/>
-
-### M. I. Devavardhan
-
-<i>Full-Stack Developer<br/>AI Enthusiast<br/>Cybersecurity Builder</i>
+<img src="assets/devavardhan-profile.svg" width="220" alt="DEVAVARDHAN M I"/>
 
 <br/><br/>
 
-📍 **Coimbatore, Tamil Nadu, India**  
-🎓 **Cyber Security — SKCET**
+### DEVAVARDHAN M I
+
+<sub><b>Full-Stack Developer</b></sub><br/>
+<sub><b>AI Enthusiast</b></sub><br/>
+<sub><b>Cybersecurity Builder</b></sub>
+
+<br/><br/>
+
+📍 Coimbatore, Tamil Nadu, India  
+🎓 SKCET · Cyber Security
 
 </td>
 
-<td width="68%" valign="middle">
+<td width="70%" valign="middle">
 
-### Building technology with purpose.
+### Building systems, not just screens.
 
-I enjoy turning ideas into **practical, secure and usable software**. My interests span full-stack development, artificial intelligence, cybersecurity and blockchain.
+I'm **Devavardhan M I**, a Cyber Security student and developer interested in building **secure, intelligent and practical software**.
 
-I like working across the complete engineering flow — **frontend → API → database → authentication → infrastructure → security**.
+My work sits at the intersection of **full-stack engineering, artificial intelligence, cybersecurity and blockchain**. I enjoy taking an idea from a problem statement to a working prototype — designing the interface, APIs, data layer and security model along the way.
 
-#### What I work on
+#### What I Build
 
-- 💻 **Full-Stack Development** — modern web applications, REST APIs and databases
-- 🤖 **AI & Computer Vision** — intelligent applications, automation and vision-based systems
-- 🔐 **Cybersecurity** — identity, access control, secure workflows and security-focused projects
-- ⛓️ **Blockchain & Web3** — smart contracts, decentralized identity and digital assets
-- 🧠 **Problem Solving** — breaking complex ideas into practical, testable systems
+| Area | Focus |
+|:---|:---|
+| 💻 **Full-Stack** | Web applications · REST APIs · Databases · System architecture |
+| 🤖 **AI & Vision** | AI applications · Computer vision · Automation |
+| 🔐 **Cybersecurity** | Secure workflows · Identity & access · Threat-focused systems |
+| ⛓️ **Blockchain** | Smart contracts · Digital identity · Web3 applications |
+| 🧩 **Problem Solving** | Hackathons · Prototyping · Turning ideas into working systems |
 
-#### Current mindset
+#### Engineering Approach
 
-**Learn → Build → Test → Secure → Deploy → Improve**
+**Understand → Design → Build → Test → Secure → Improve**
 
 </td>
 </tr>
@@ -421,39 +425,90 @@ I like working across the complete engineering flow — **frontend → API → d
 <table>
 <tr>
 
-<td align="center" width="33.33%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🟡 LeetCode
 
-**Problem Solving · DSA · Algorithms**
+<sub><b>Problem Solving · DSA · Algorithms</b></sub>
+
+<br/><br/>
 
 <a href="https://leetcode.com/u/Devavardhan_0618/">
-<img src="https://img.shields.io/badge/LeetCode-Devavardhan__0618-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/>
+<img src="https://leetcard.jacoblin.cool/Devavardhan_0618?theme=dark&ext=heatmap&border=0&radius=12&cache=60" width="100%" alt="Devavardhan LeetCode stats and activity"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Devavardhan_0618/">
+<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode profile"/>
 </a>
 
 </td>
 
-<td align="center" width="33.33%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🟢 HackerRank
 
-**Programming · Problem Solving · Practice**
+<sub><b>Programming · Problem Solving · Certifications</b></sub>
+
+<br/><br/>
+
+<table width="100%">
+<tr><td align="center"><h3>🏆 ACHIEVEMENTS</h3><sub>Badges · Skills · Certificates</sub></td></tr>
+<tr><td align="center"><h3>⚡ PRACTICE</h3><sub>Programming challenges · Problem solving</sub></td></tr>
+</table>
 
 <a href="https://www.hackerrank.com/profile/Devavardhan_0618">
-<img src="https://img.shields.io/badge/HackerRank-Devavardhan__0618-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile"/>
+<img src="https://img.shields.io/badge/OPEN%20LIVE%20PROFILE-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="View HackerRank profile"/>
 </a>
 
 </td>
 
-<td align="center" width="33.33%" valign="top">
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top" align="center">
 
 ### 🔵 HackerEarth
 
-**Competitive Programming · Challenges**
+<sub><b>Competitive Programming · Challenges · Achievements</b></sub>
+
+<br/><br/>
+
+<h3>🏅 ACHIEVEMENTS</h3>
+<sub>Challenges · Badges · Competitive programming activity</sub>
+
+<br/><br/>
+
+<h3>📈 ACTIVITY</h3>
+<sub>Live profile activity and challenge history</sub>
+
+<br/><br/>
 
 <a href="https://www.hackerearth.com/@Devavardhan_0618/">
-<img src="https://img.shields.io/badge/HackerEarth-Devavardhan__0618-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth profile"/>
+<img src="https://img.shields.io/badge/OPEN%20LIVE%20PROFILE-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="View HackerEarth profile"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🎯 Coding Progress
+
+**LEARN · PRACTICE · COMPETE**
+
+<br/><br/>
+
+<sub>Strengthening algorithms, problem solving and consistency through regular coding practice.</sub>
+
+<br/><br/>
+
+<strong>DSA</strong> · <strong>Algorithms</strong> · <strong>Problem Solving</strong> · <strong>Consistency</strong>
 
 </td>
 
@@ -462,23 +517,60 @@ I like working across the complete engineering flow — **frontend → API → d
 
 </div>
 
-<br/>
+---
 
 # Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/deva18-ai"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:devavardhanmohanraj@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-&nbsp;
-<a href="https://www.instagram.com/r.a.g.a_0618/"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<table>
+<tr>
+<td align="center" width="25%">
 
+### GitHub
+<sub>Projects · Code · Collaboration</sub>
 <br/><br/>
+<a href="https://github.com/deva18-ai">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<sub>Building • Learning • Securing • Innovating</sub>
+</td>
+<td align="center" width="25%">
+
+### LinkedIn
+<sub>Professional · Networking · Opportunities</sub>
+<br/><br/>
+<a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</td>
+<td align="center" width="25%">
+
+### Email
+<sub>Projects · Collaboration · Contact</sub>
+<br/><br/>
+<a href="mailto:devavardhanmohanraj@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</td>
+<td align="center" width="25%">
+
+### Instagram
+<sub>Creative · Personal · Updates</sub>
+<br/><br/>
+<a href="https://www.instagram.com/r.a.g.a_0618/">
+<img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<strong>OPEN TO BUILDING · LEARNING · COLLABORATING</strong>
 
 <br/><br/>
 
