@@ -417,43 +417,31 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 <table>
 <tr>
-<td width="33.33%" align="center" valign="top">
+<td width="33.33%" align="center" valign="middle">
 
 ### 🟡 LeetCode
 
 <a href="https://leetcode.com/u/Devavardhan_0618/">
-<img src="https://img.shields.io/badge/VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/>
+<img src="https://img.shields.io/badge/PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/>
 </a>
 
-<br/><br/>
-
-<sub>Data Structures · Algorithms · Problem Solving</sub>
-
 </td>
-<td width="33.33%" align="center" valign="top">
+<td width="33.33%" align="center" valign="middle">
 
 ### 🟢 HackerRank
 
 <a href="https://www.hackerrank.com/profile/Devavardhan_0618">
-<img src="https://img.shields.io/badge/VIEW_PROFILE-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile"/>
+<img src="https://img.shields.io/badge/PROFILE-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile"/>
 </a>
 
-<br/><br/>
-
-<sub>Programming · Skills · Challenges</sub>
-
 </td>
-<td width="33.33%" align="center" valign="top">
+<td width="33.33%" align="center" valign="middle">
 
 ### 🔵 HackerEarth
 
 <a href="https://www.hackerearth.com/@Devavardhan_0618/">
-<img src="https://img.shields.io/badge/VIEW_PROFILE-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth profile"/>
+<img src="https://img.shields.io/badge/PROFILE-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth profile"/>
 </a>
-
-<br/><br/>
-
-<sub>Competitive Programming · Challenges</sub>
 
 </td>
 </tr>
