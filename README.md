@@ -159,134 +159,75 @@ I like working across the complete engineering flow — **frontend → API → d
 
 # Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 01 · 🔐 SecureChain
+<td width="33.33%" valign="top">
 
-**DECENTRALIZED IDENTITY & ASSET CONTROL**
+### 🔐 SecureChain
 
-A full-stack blockchain platform for **digital identity, role-based access control, NFT-based asset ownership and immutable auditing**.
+**Decentralized identity and access-control platform** combining blockchain, role-based permissions, digital asset ownership and audit trails.
 
-**Built with**  
-`React` · `FastAPI` · `PostgreSQL` · `Solidity` · `Ethereum`
-
-**Engineering focus**  
-Identity verification · RBAC · Non-transferable assignments · Audit trails
-
-<a href="https://github.com/deva18-ai/SecureChain">EXPLORE PROJECT →</a>
+<a href="https://github.com/deva18-ai/SecureChain">View Project →</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
-### 02 · 🛡️ HoneyTrap
+### 🛡️ HoneyTrap
 
-**HONEYPOT INTRUSION DETECTION & SOC**
+**Cybersecurity deception platform** focused on capturing suspicious activity, monitoring events and supporting threat investigation.
 
-A defensive cybersecurity platform that emulates services, captures activity, classifies threats and presents investigations through a SOC-style dashboard.
-
-**Built with**  
-`Python` · `FastAPI` · `React` · `TypeScript` · `Redis`
-
-**Engineering focus**  
-MITRE ATT&CK · Threat scoring · Incident correlation · Real-time events
-
-<a href="https://github.com/deva18-ai/Honeytrap">EXPLORE PROJECT →</a>
+<a href="https://github.com/deva18-ai/Honeytrap">View Project →</a>
 
 </td>
+
+<td width="33.33%" valign="top">
+
+### 🚦 AI Traffic Analyser
+
+**Computer-vision traffic analysis system** designed to detect vehicles, process traffic data and present useful insights.
+
+<a href="https://github.com/deva18-ai/AI-Traffic-Analyser-Full-Stack">View Project →</a>
+
+</td>
+
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-### 03 · 🚦 AI Traffic Analyser
+<td width="33.33%" valign="top">
 
-**COMPUTER VISION → TRAFFIC INTELLIGENCE**
+### 🏙️ Smart City
 
-A full-stack AI system that processes images and videos to **detect vehicles, analyse traffic density and generate analytics**.
+**Full-stack urban technology platform** exploring software-driven solutions for smart-city workflows and services.
 
-**Built with**  
-`Python` · `FastAPI` · `OpenCV` · `YOLOv8`
-
-**Engineering focus**  
-Object detection · Media processing · Analytics APIs · Web dashboard
-
-<a href="https://github.com/deva18-ai/AI-Traffic-Analyser-Full-Stack">EXPLORE PROJECT →</a>
+<a href="https://github.com/deva18-ai/Smart-City-Project">View Project →</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
-### 04 · 🏙️ Smart City
+### 🏥 AI Healthcare
 
-**SOFTWARE FOR URBAN SYSTEMS**
+**Healthcare-focused application** exploring intelligent workflows, risk-oriented analysis and responsive user experiences.
 
-A full-stack Smart City platform exploring technology-driven solutions for **traffic, energy, disaster simulation and urban planning**.
-
-**Built with**  
-`React` · `Spring Boot` · `REST APIs`
-
-**Engineering focus**  
-Urban workflows · Simulation · Dashboards · Full-stack architecture
-
-<a href="https://github.com/deva18-ai/Smart-City-Project">EXPLORE PROJECT →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 05 · 🏥 AI Healthcare
-
-**RISK-AWARE CLINICAL SUPPORT**
-
-A responsive healthcare application exploring **AI-assisted workflows, risk analysis and clinical dashboard experiences**.
-
-**Built with**  
-`React` · `JavaScript` · `HTML5` · `CSS3`
-
-**Engineering focus**  
-Healthcare UX · Risk analysis · Responsive interfaces
-
-<a href="https://github.com/deva18-ai/AI-Healthcare">EXPLORE PROJECT →</a>
+<a href="https://github.com/deva18-ai/AI-Healthcare">View Project →</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
-### 06 · 🔒 Vaultcore
+### 🔒 Vaultcore
 
-**SECURE DATA & APPLICATION FOUNDATION**
+**Security-focused software project** exploring protected data handling, modular architecture and maintainable application design.
 
-A security-focused application concept built around **secure data handling, modular architecture and integration-ready system design**.
-
-**Engineering focus**  
-Security · Modularity · Scalability · Maintainable systems
-
-<a href="https://github.com/deva18-ai/Vaultcore">EXPLORE PROJECT →</a>
+<a href="https://github.com/deva18-ai/Vaultcore">View Project →</a>
 
 </td>
+
 </tr>
 </table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**PROJECT PHILOSOPHY**
-
-<sub>Identify the problem → Design the system → Build the prototype → Test the workflow → Secure the implementation → Iterate</sub>
-
-</div>
-
----
 
 # GitHub Dashboard
 
