@@ -6,10 +6,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/deva18-ai"><img src="https://komarev.com/ghpvc/?username=deva18-ai&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/></a>
-&nbsp;
-<a href="https://github.com/deva18-ai?tab=followers"><img src="https://img.shields.io/github/followers/deva18-ai?style=flat-square&color=111827&label=FOLLOWERS" alt="Followers"/></a>
-
 </div>
 
 ---
@@ -419,6 +415,56 @@ I like working across the complete engineering flow — **frontend → API → d
 </table>
 
 </div>
+
+# Coding Profiles
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33.33%" valign="top">
+
+### 🟡 LeetCode
+
+**Problem Solving · DSA · Algorithms**
+
+<a href="https://leetcode.com/u/Devavardhan_0618/">
+<img src="https://img.shields.io/badge/LeetCode-Devavardhan__0618-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/>
+</a>
+
+</td>
+
+<td align="center" width="33.33%" valign="top">
+
+### 🟢 HackerRank
+
+**Programming · Problem Solving · Practice**
+
+<a href="https://www.hackerrank.com/profile/Devavardhan_0618">
+<img src="https://img.shields.io/badge/HackerRank-Devavardhan__0618-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile"/>
+</a>
+
+</td>
+
+<td align="center" width="33.33%" valign="top">
+
+### 🔵 HackerEarth
+
+**Competitive Programming · Challenges**
+
+<a href="https://www.hackerearth.com/@Devavardhan_0618/">
+<img src="https://img.shields.io/badge/HackerEarth-Devavardhan__0618-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth profile"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 # Let's Connect
 
