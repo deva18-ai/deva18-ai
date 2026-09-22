@@ -400,7 +400,6 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
   alt="DEVAVARDHAN M I GitHub Contribution Graph"
   width="96%"
 />
-
 <br><br>
 <strong>GitHub Contribution Activity</strong>
 <br>
