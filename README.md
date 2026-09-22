@@ -395,15 +395,22 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 <div align="center">
 
-<a href="https://github.com/deva18-ai">
-<img src="https://github.com/users/deva18-ai/contributions" width="96%" alt="DEVAVARDHAN M I GitHub contribution graph"/>
-</a>
+<img
+  src="https://ghchart.rshah.org/58A6FF/deva18-ai"
+  alt="DEVAVARDHAN M I GitHub Contribution Graph"
+  width="96%"
+/>
 
-<br/>
+<br><br>
 
-<sub><b>GitHub activity overview</b> · Contributions, commits and development consistency</sub>
+<strong>GitHub Contribution Activity</strong>
+
+<br>
+
+<sub>Building • Learning • Contributing • Improving</sub>
 
 </div>
+
 
 ---
 
@@ -479,7 +486,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 <div align="center">
 
-**💖 Built with love by **Devavardhan M I** &nbsp; • &nbsp; **⚡ Always open for collaborations**
+💖 Built with love by **Devavardhan M I** &nbsp; • &nbsp; **⚡ Always open for collaborations**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Always+Learning;Always+Building;Always+Improving;Always+Exploring+Technology" alt="Footer typing animation"/>
 
