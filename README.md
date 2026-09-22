@@ -7,9 +7,7 @@
 <br/><br/>
 
 </div>
-
 ---
-
 # About Me
 
 <table>
