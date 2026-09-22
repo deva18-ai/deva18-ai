@@ -1,546 +1,374 @@
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=190&section=header&text=DEVAVARDHAN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20CYBERSECURITY%20BUILDER&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
-<!-- ANIMATED HERO -->
+<a href="https://github.com/deva18-ai">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+real-world+software+solutions;Exploring+AI+and+Cybersecurity;Designing+full-stack+applications;Turning+ideas+into+working+products" alt="Typing animation"/>
+</a>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=DEVAVARDHAN&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cybersecurity%20Builder&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+real-world+software+solutions;Exploring+AI+%26+Cybersecurity;Designing+full-stack+applications;Turning+ideas+into+working+products;Learning+%7C+Building+%7C+Securing+%7C+Innovating" alt="Typing Animation"/>
-
-<br><br>
-
-<!-- PROFILE IMAGE -->
-
-<!-- Replace assets/profile.jpg with your personal photo -->
-
-<img src="assets/profile.jpg" width="185" alt="Devavardhan"/>
-
-<br><br>
-
-<a href="https://github.com/deva18-ai"> <img src="https://komarev.com/ghpvc/?username=deva18-ai&label=PROFILE+VIEWS&style=for-the-badge&color=1F6FEB" alt="Profile Views"/> </a>
-
-<a href="https://github.com/deva18-ai?tab=followers"> <img src="https://img.shields.io/github/followers/deva18-ai?style=for-the-badge&label=FOLLOWERS&color=161B22" alt="GitHub Followers"/> </a>
+<a href="https://github.com/deva18-ai">
+<img src="https://komarev.com/ghpvc/?username=deva18-ai&label=PROFILE+VIEWS&style=for-the-badge&color=1F6FEB" alt="Profile views"/>
+</a>
+&nbsp;
+<a href="https://github.com/deva18-ai?tab=followers">
+<img src="https://img.shields.io/github/followers/deva18-ai?style=for-the-badge&label=FOLLOWERS&color=161B22" alt="GitHub followers"/>
+</a>
 
 </div>
 
-👋 About Me
+---
 
-<div align="center">
+## 👋 About Me
 
-<table> <tr> <td width="32%" align="center">
+<table>
+<tr>
+<td width="28%" align="center" valign="middle">
 
-<img src="assets/profile.jpg" width="240" alt="Devavardhan"/>
+<img src="assets/profile.jpg" width="210" alt="Devavardhan"/>
 
 </td>
+<td width="72%" valign="middle">
 
-<td width="68%">
+### M. I. Devavardhan
 
-M. I. Devavardhan
+**Full-Stack Developer · AI Enthusiast · Cybersecurity Builder**
 
-Full-Stack Developer • AI Enthusiast • Cybersecurity Builder
-
-📍 Coimbatore, Tamil Nadu, India
-
+📍 Coimbatore, Tamil Nadu, India  
 🎓 Cyber Security — Sri Krishna College of Engineering and Technology
 
-💻 Interested in Full-Stack Development
+I enjoy building practical software by combining **full-stack development, artificial intelligence, cybersecurity and modern system design**.
 
-🤖 Exploring Artificial Intelligence & Automation
+My approach is simple:
 
-🔐 Building with Cybersecurity & Secure Systems
+**Understand → Design → Build → Secure → Test → Deploy → Improve**
 
-⛓️ Exploring Blockchain & Decentralized Applications
+I am especially interested in:
+- 🤖 AI-powered applications and automation
+- 💻 Full-stack web applications and REST APIs
+- 🔐 Cybersecurity, authentication and access control
+- ⛓️ Blockchain, digital identity and Web3
+- 🧠 Problem solving and system design
 
-🧠 Passionate about Problem Solving & System Design
+</td>
+</tr>
+</table>
 
-I enjoy taking an idea from:
+---
 
-Idea → Architecture → Development → Testing → Deployment
-
-and turning it into a practical working solution.
-
-</td> </tr> </table>
-
-</div>
-
-⚡ What I Build
+## 🧭 What I Build
 
 <div align="center">
 
-🤖 Artificial Intelligence	💻 Full Stack	🔐 Cybersecurity	⛓️ Blockchain
-AI Applications	React Applications	Secure Systems	Smart Contracts
-Computer Vision	REST APIs	Authentication	Digital Identity
-Automation	Backend Systems	Access Control	Web3
-Intelligent Tools	Databases	Threat Detection	Decentralized Apps
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻
+**Full Stack**
+
+React · APIs · Databases
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+**AI & Automation**
+
+AI · Computer Vision · Intelligent Tools
+
+</td>
+<td align="center" width="25%">
+
+### 🔐
+**Cybersecurity**
+
+Identity · Access Control · Secure Systems
+
+</td>
+<td align="center" width="25%">
+
+### ⛓️
+**Blockchain**
+
+Smart Contracts · Web3 · Digital Identity
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
+---
 
-              ┌─────────────────────────────────┐
-              │          IDEA / PROBLEM          │
-              └────────────────┬────────────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │     ARCHITECTURE    │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-        ┌──────────┐     ┌──────────┐     ┌──────────┐
-        │    AI    │     │FULL STACK│     │ SECURITY │
-        └────┬─────┘     └────┬─────┘     └────┬─────┘
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                    ┌─────────────────────┐
-                    │  BUILD • TEST • FIX │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      DEPLOY 🚀      │
-                    └─────────────────────┘
 ## 🧰 Skills & Tools
 
 <div align="center">
 
 <table>
 <tr>
-
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="52"/><br/>
-<b>Java</b>
-</td>
-
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="52"/><br/>
-<b>JavaScript</b>
-</td>
-
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="52"/><br/>
-<b>Python</b>
-</td>
-
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="52"/><br/>
-<b>React</b>
-</td>
-
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="52"/><br/>
-<b>Node.js</b>
-</td>
-
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=express&theme=dark" width="52"/><br/>
-<b>Express</b>
-</td>
-
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="52"/><br/>
-<b>Spring Boot</b>
-</td>
-
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="52"/><br/>
-<b>MongoDB</b>
-</td>
-
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52"/><br/>
-<b>MySQL</b>
-</td>
-
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=c&theme=dark" width="52"/><br/>
-<b>C</b>
-</td>
-
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48"/><br/><sub><b>C</b></sub></td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48"/><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/><sub><b>HTML</b></sub></td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/><sub><b>CSS</b></sub></td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=solidity&theme=dark" width="48"/><br/><sub><b>Solidity</b></sub></td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48"/><br/><sub><b>Vite</b></sub></td>
 </tr>
+
 <tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="52"/><br/>
-<b>Git</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="52"/><br/>
-<b>GitHub</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="52"/><br/>
-<b>Postman</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="52"/><br/>
-<b>VS Code</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="52"/><br/>
-<b>HTML5</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css&theme=dark" width="52"/><br/>
-<b>CSS3</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="52"/><br/>
-<b>Bootstrap</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52"/><br/>
-<b>Docker</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="52"/><br/>
-<b>PostgreSQL</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="52"/><br/>
-<b>Redis</b>
-</td>
-
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/><br/><sub><b>Express</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48"/><br/><sub><b>Spring</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48"/><br/><sub><b>FastAPI</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><sub><b>MySQL</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/><sub><b>MongoDB</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48"/><br/><sub><b>Redis</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub><b>Docker</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br/><sub><b>Postman</b></sub></td>
 </tr>
+
 <tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="52"/><br/>
-<b>FastAPI</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="52"/><br/>
-<b>OpenCV</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="52"/><br/>
-<b>PyTorch</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=solidity&theme=dark" width="52"/><br/>
-<b>Solidity</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ethereum&theme=dark" width="52"/><br/>
-<b>Ethereum</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="52"/><br/>
-<b>TypeScript</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="52"/><br/>
-<b>Vite</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="52"/><br/>
-<b>Tailwind CSS</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="52"/><br/>
-<b>Firebase</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="52"/><br/>
-<b>Vercel</b>
-</td>
-
+<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/><sub><b>Git</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/><sub><b>VS Code</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48"/><br/><sub><b>OpenCV</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48"/><br/><sub><b>PyTorch</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br/><sub><b>Tailwind</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/><sub><b>Firebase</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48"/><br/><sub><b>Vercel</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ethereum&theme=dark" width="48"/><br/><sub><b>Ethereum</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48"/><br/><sub><b>Next.js</b></sub></td>
 </tr>
 </table>
-
-<br/>
-
-<sub>Languages • Frontend • Backend • Databases • DevOps • AI • Blockchain</sub>
 
 </div>
 
 ---
 
-🧠 Soft Skills
+## 🚀 Featured Projects
 
 <div align="center">
 
-<table> <tr> <td align="center">💬<br><b>Communication</b></td> <td align="center">🤝<br><b>Team Collaboration</b></td> <td align="center">💡<br><b>Problem Solving</b></td> <td align="center">🎯<br><b>Ownership</b></td> <td align="center">🧠<br><b>Critical Thinking</b></td> </tr>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<tr> <td align="center">🔍<br><b>Debugging</b></td> <td align="center">📚<br><b>Continuous Learning</b></td> <td align="center">🚀<br><b>Innovation</b></td> <td align="center">⏱️<br><b>Time Management</b></td> <td align="center">🔐<br><b>Security Mindset</b></td> </tr> </table>
+### 🔐 SecureChain
 
-</div>
-
-🚀 Featured Projects
-
-<div align="center">
-
-🔐 SecureChain
-
-Decentralized Identity & Digital Asset Access Control
+**Decentralized Identity & Digital Asset Access Control**
 
 Blockchain-based platform combining decentralized identity, role-based access control and digital asset ownership.
 
-Tech: Solidity • Ethereum • FastAPI • React • PostgreSQL • Redis
+**Stack:** Solidity · Ethereum · FastAPI · React · PostgreSQL · Redis
 
+<a href="https://github.com/deva18-ai/SecureChain">Repository →</a>
 
+</td>
+<td width="50%" valign="top">
 
+### 🏙️ Smart City Project
 
-🏙️ Smart City Project
+**Full-Stack Smart City Platform**
 
-Full-Stack Smart City Platform
+A full-stack application exploring technology-driven solutions for urban environments.
 
-A full-stack application focused on technology-driven solutions for urban environments.
+**Stack:** React · Spring Boot · REST APIs · Database
 
-Tech: React • Spring Boot • REST APIs • Database
+<a href="https://github.com/deva18-ai/Smart-City-Project">Repository →</a>
 
+</td>
+</tr>
 
+<tr>
+<td width="50%" valign="top">
 
+### 🚦 AI Traffic Analyser
 
-🚦 AI Traffic Analyser
+**AI-Powered Traffic Analysis**
 
-AI-Powered Traffic Analysis
+A computer-vision project combined with a web interface for analysing traffic-related data.
 
-Computer-vision-based traffic analysis combined with a web interface.
+**Stack:** Python · Computer Vision · AI · React
 
-Tech: Python • AI • Computer Vision • React • Full Stack
+<a href="https://github.com/deva18-ai/AI-Traffic-Analyser-Full-Stack">Repository →</a>
 
+</td>
+<td width="50%" valign="top">
 
+### 🛡️ Honeytrap
 
+**Cybersecurity & Deception Project**
 
+A security-focused project exploring deception-based approaches and threat-monitoring concepts.
 
+**Stack:** Cybersecurity · Web Development · Security Engineering
 
+<a href="https://github.com/deva18-ai/Honeytrap">Repository →</a>
 
-🛡️ Honeytrap
+</td>
+</tr>
 
-Cybersecurity & Deception-Based Security Project
+<tr>
+<td width="50%" valign="top">
 
-A security-focused project exploring deceptive systems and threat detection concepts.
+### 🔒 Vaultcore
 
-Tech: Cybersecurity • Security Engineering • Threat Detection
+**Security-Focused Application**
 
+A project focused on secure application development and data-protection concepts.
 
+<a href="https://github.com/deva18-ai/Vaultcore">Repository →</a>
 
+</td>
+<td width="50%" valign="top">
 
-🧠 AI Healthcare
+### 🧠 AI Healthcare
 
-AI-Based Healthcare Experimentation
+**AI-Based Healthcare Experimentation**
 
 An AI-focused project exploring intelligent applications for healthcare-related workflows.
 
-Tech: Python • Artificial Intelligence • Intelligent Applications
+**Stack:** Python · Artificial Intelligence
 
-
-
-
-🔒 Vaultcore
-
-Security-Focused Application
-
-A project focused on secure application development and data protection concepts.
-
-
-
-
-</div>
-
-💼 Professional Experience
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-🚀 Full-Stack Development
-Building React-based interfaces
-Developing REST APIs
-Working with backend systems
-Database integration
-Deployment and debugging
-Full-stack application development
+<a href="https://github.com/deva18-ai/AI-Healthcare">Repository →</a>
 
 </td>
-
-<td width="50%">
-
-🔐 Cybersecurity & Systems
-Secure application concepts
-Authentication & authorization
-Identity and access control
-Blockchain-based security
-Threat detection concepts
-Security-focused projects
-
-</td>
-
 </tr>
-
 </table>
 
 </div>
 
-Internships and professional experience: This section can be expanded with verified company names, internship titles, dates and responsibilities as they are added.
+---
 
-🏆 Certifications & Learning
-
-<div align="center">
-
-Area	Learning Focus
-🤖 AI	Artificial Intelligence & Machine Learning
-📊 Data Science	Data Analysis & Data Science
-🧠 Deep Learning	Neural Networks & Deep Learning
-🐍 Python	Python Development
-🔐 Cybersecurity	Secure Application Development
-⛓️ Blockchain	Smart Contracts & Web3
-
-</div>
-
-Add your verified certification names, issuing organizations and certificate links here as you collect them.
-
-🧩 Development Approach
-
-<div align="center">
-
-Stage	Focus
-01	💡 Understand — Identify the real problem
-02	🏗️ Design — Plan architecture and technologies
-03	⚙️ Build — Develop the application
-04	🔐 Secure — Protect data and access
-05	🧪 Test — Debug and validate
-06	🚀 Deploy — Make the solution usable
-07	🔄 Improve — Learn from every iteration
-
-</div>
-
-📊 GitHub Dashboard
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva18-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=deva18-ai&theme=tokyonight&hide_border=true" />
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deva18-ai&theme=tokyo-night&hide_border=true&area=true&custom_title=Devavardhan's%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
-
-</div>
-
-🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-👀 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=deva18-ai&label=PROFILE+VIEWS&style=for-the-badge&color=1F6FEB" alt="Profile Views"/>
-
-<br><br>
-
-Thanks for visiting my profile! 🚀
-
-</div>
-
-🎯 Current Goals
+## 🧠 Development Approach
 
 <div align="center">
 
 <table>
-
-<tr> <td>💻 Build production-ready software</td> <td>🔐 Strengthen cybersecurity skills</td> </tr>
-
-<tr> <td>🤖 Develop AI-powered applications</td> <td>🏗️ Improve system design</td> </tr>
-
-<tr> <td>🚀 Participate in hackathons</td> <td>🌐 Contribute to open source</td> </tr>
-
-<tr> <td>⛓️ Explore blockchain technology</td> <td>📚 Keep learning & experimenting</td> </tr>
-
+<tr>
+<td align="center"><b>01</b><br/>Understand<br/><sub>Define the problem</sub></td>
+<td align="center">→</td>
+<td align="center"><b>02</b><br/>Design<br/><sub>Plan the architecture</sub></td>
+<td align="center">→</td>
+<td align="center"><b>03</b><br/>Build<br/><sub>Develop the solution</sub></td>
+<td align="center">→</td>
+<td align="center"><b>04</b><br/>Secure<br/><sub>Protect the system</sub></td>
+</tr>
+<tr>
+<td align="center"><b>05</b><br/>Test<br/><sub>Validate & debug</sub></td>
+<td align="center">→</td>
+<td align="center"><b>06</b><br/>Deploy<br/><sub>Make it usable</sub></td>
+<td align="center">→</td>
+<td align="center"><b>07</b><br/>Improve<br/><sub>Iterate & learn</sub></td>
+<td align="center">→</td>
+<td align="center">🚀<br/><b>Impact</b><br/><sub>Build for people</sub></td>
+</tr>
 </table>
 
 </div>
 
-🤝 Let's Connect
+---
+
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<a href="https://github.com/deva18-ai"> <img src="https://skillicons.dev/icons?i=github" width="55"/> </a> &nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=deva18-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva18-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-<a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/"> <img src="https://skillicons.dev/icons?i=linkedin" width="55"/> </a> &nbsp;&nbsp;
+<br/><br/>
 
-<a href="mailto:devavardhanmohanraj@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="55"/> </a> &nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=deva18-ai&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<a href="https://www.instagram.com/r.a.g.a_0618/"> <img src="https://skillicons.dev/icons?i=instagram" width="55"/> </a>
+</div>
 
-<br><br>
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deva18-ai&theme=tokyo-night&hide_border=true&area=true&custom_title=Devavardhan%27s%20Contribution%20Graph" width="96%" alt="GitHub contribution graph"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="96%" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| 🔐 | Cybersecurity & secure application development |
+| 🤖 | AI-powered applications and automation |
+| 💻 | Full-stack systems and APIs |
+| ⛓️ | Blockchain & decentralized identity |
+| 🏆 | Hackathons, projects and open-source development |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/deva18-ai">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="55" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:devavardhanmohanraj@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="55" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/r.a.g.a_0618/">
+<img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="55" alt="Instagram"/>
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/deva18-ai">GitHub</a>
-  •  
+&nbsp;•&nbsp;
 <a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/">LinkedIn</a>
-  •  
+&nbsp;•&nbsp;
 <a href="mailto:devavardhanmohanraj@gmail.com">Email</a>
-  •  
+&nbsp;•&nbsp;
 <a href="https://www.instagram.com/r.a.g.a_0618/">Instagram</a>
 
 </div>
 
+---
+
 <div align="center">
 
-🚀 Build Real • Solve Problems • Leave Impact
+**Build · Learn · Secure · Innovate**
 
-Turning ideas into technology, one project at a time.
+<sub>Turning ideas into practical technology, one project at a time.</sub>
 
-<br>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Always+Learning;Always+Building;Always+Improving;Always+Exploring+Technology" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Always+Learning;Always+Building;Always+Improving;Always+Exploring+Technology" alt="Footer animation"/>
 
-<br><br>
+<br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-<!-- ANIMATED FOOTER -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=150&section=footer&animation=fadeIn" width="100%"/>
-
-</div> ```
+</div>
