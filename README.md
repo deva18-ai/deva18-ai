@@ -12,42 +12,34 @@
 
 ## ABOUT ME
 
+<div align="center">
 <sub><b>DEVAVARDHAN M I</b> · Full-Stack Developer · AI Enthusiast · Cybersecurity Builder</sub>
-
 </div>
 
 <table>
 <tr>
-<td width="32%" align="center" valign="middle">
+<td width="31%" align="center" valign="middle">
 
-<a href="https://github.com/deva18-ai">
-<img src="https://github.com/deva18-ai.png?size=420" width="240" alt="DEVAVARDHAN M I"/>
-</a>
+<img src="assets/devavardhan-profile.jpg" width="220" alt="DEVAVARDHAN M I"/>
 
 <br/><br/>
 
-**DEVAVARDHAN M I**
+<b>DEVAVARDHAN M I</b>
 
 <br/>
 
 <sub>Cyber Security · SKCET</sub><br/>
 <sub>Coimbatore, Tamil Nadu, India</sub>
 
-<br/><br/>
-
-<a href="https://github.com/deva18-ai">
-<img src="https://img.shields.io/badge/GitHub-deva18--ai-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
 </td>
 
-<td width="68%" valign="middle">
+<td width="69%" valign="middle">
 
-### I build practical software with a security-first mindset.
+### Building practical software with a security-first mindset.
 
-I'm a **Cyber Security student and developer** focused on turning ideas into useful, working products. My interests span **full-stack development, artificial intelligence, computer vision, cybersecurity and blockchain**.
+I'm a **Cyber Security student and developer** focused on turning ideas into useful, working products across **full-stack development, artificial intelligence, computer vision, cybersecurity and blockchain**.
 
-I enjoy working across the complete development cycle — from **interface and API design** to **databases, system architecture, testing and security**.
+I enjoy the complete engineering cycle — from **interface and API design** to **databases, architecture, testing and security**.
 
 <br/>
 
@@ -79,7 +71,7 @@ Intelligent workflows
 
 Secure application design  
 Identity & access  
-Threat-focused systems
+Security-focused systems
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +88,7 @@ Web3 applications
 
 <br/>
 
-**Engineering mindset:** `Understand` → `Design` → `Build` → `Test` → `Secure` → `Improve`
+<b>Engineering mindset:</b> <code>Understand</code> → <code>Design</code> → <code>Build</code> → <code>Test</code> → <code>Secure</code> → <code>Improve</code>
 
 </td>
 </tr>
@@ -467,42 +459,39 @@ Web3 applications
 
 ## CODING PROFILES
 
-<sub>Practice · Problem Solving · Competitive Programming</sub>
-
-<br/><br/>
+<div align="center">
 
 <table>
 <tr>
-
 <td width="33.33%" valign="top" align="center">
 
-### 🟡 LeetCode
+### 🟡 LEETCODE
 
 <sub><b>DSA · Algorithms · Problem Solving</b></sub>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/Devavardhan_0618/">
-<img src="https://leetcard.jacoblin.cool/Devavardhan_0618?theme=dark&ext=heatmap&border=0&radius=10&cache=60" width="96%" alt="LeetCode statistics and activity"/>
+<img src="https://leetcard.jacoblin.cool/Devavardhan_0618?theme=dark&ext=heatmap&border=0&radius=12&cache=60" width="96%" alt="Devavardhan M I LeetCode statistics and activity"/>
 </a>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/Devavardhan_0618/">
-<img src="https://img.shields.io/badge/OPEN_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Open LeetCode profile"/>
+<img src="https://img.shields.io/badge/PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/>
 </a>
 
 </td>
 
 <td width="33.33%" valign="top" align="center">
 
-### 🟢 HackerRank
+### 🟢 HACKERRANK
 
 <sub><b>Programming · Skills · Challenges</b></sub>
 
 <br/><br/>
 
-<table width="94%">
+<table width="92%">
 <tr>
 <td align="center">
 
@@ -510,6 +499,7 @@ Web3 applications
 
 **ACHIEVEMENTS**
 
+<br/>
 <sub>Badges · Skills · Certifications</sub>
 
 </td>
@@ -521,6 +511,7 @@ Web3 applications
 
 **PRACTICE**
 
+<br/>
 <sub>Problem solving · Coding challenges</sub>
 
 </td>
@@ -530,20 +521,20 @@ Web3 applications
 <br/>
 
 <a href="https://www.hackerrank.com/profile/Devavardhan_0618">
-<img src="https://img.shields.io/badge/VIEW_LIVE_PROFILE-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Open HackerRank profile"/>
+<img src="https://img.shields.io/badge/LIVE_PROFILE-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile"/>
 </a>
 
 </td>
 
 <td width="33.33%" valign="top" align="center">
 
-### 🔵 HackerEarth
+### 🔵 HACKEREARTH
 
-<sub><b>Challenges · Competitive Programming</b></sub>
+<sub><b>Competitive Programming · Challenges</b></sub>
 
 <br/><br/>
 
-<table width="94%">
+<table width="92%">
 <tr>
 <td align="center">
 
@@ -551,6 +542,7 @@ Web3 applications
 
 **ACHIEVEMENTS**
 
+<br/>
 <sub>Badges · Challenges · Milestones</sub>
 
 </td>
@@ -562,7 +554,8 @@ Web3 applications
 
 **ACTIVITY**
 
-<sub>Live challenge history and profile activity</sub>
+<br/>
+<sub>Live challenge history · Profile activity</sub>
 
 </td>
 </tr>
@@ -571,17 +564,25 @@ Web3 applications
 <br/>
 
 <a href="https://www.hackerearth.com/@Devavardhan_0618/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_PROFILE-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="Open HackerEarth profile"/>
+<img src="https://img.shields.io/badge/LIVE_PROFILE-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth profile"/>
 </a>
 
 </td>
-
 </tr>
 </table>
 
 <br/>
 
-<sub><b>Live profile links are provided for current achievements, streaks and platform activity.</b></sub>
+<table>
+<tr>
+<td align="center" width="25%"><b>STREAK</b><br/><sub>Consistent practice</sub></td>
+<td align="center" width="25%"><b>DSA</b><br/><sub>Algorithms & problem solving</sub></td>
+<td align="center" width="25%"><b>ACHIEVEMENTS</b><br/><sub>Badges & milestones</sub></td>
+<td align="center" width="25%"><b>COMPETE</b><br/><sub>Challenges & contests</sub></td>
+</tr>
+</table>
+
+<sub>Platform statistics and achievements are linked to the live profiles above, keeping the README free from stale hard-coded numbers.</sub>
 
 </div>
 
