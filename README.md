@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:111827,100:2563EB&height=190&section=header&text=DEVAVARDHAN%20M%20I&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20%7C%20AI%20%7C%20CYBERSECURITY%20%7C%20BLOCKCHAIN&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+real-world+software+solutions;Exploring+AI+and+Cybersecurity;Designing+full-stack+systems;Learning+%7C+Building+%7C+Securing+%7C+Innovating" alt="Typing animation"/>
-
-<br/><br/>
+<br/>
 </div>
 <div align="center">
 
