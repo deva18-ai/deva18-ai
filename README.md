@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:111827,100:2563EB&height=190&section=header&text=DEVAVARDHAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20%7C%20AI%20%7C%20CYBERSECURITY%20%7C%20BLOCKCHAIN&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:111827,100:2563EB&height=190&section=header&text=DEVAVARDHAN%20M%20I&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20%7C%20AI%20%7C%20CYBERSECURITY%20%7C%20BLOCKCHAIN&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+real-world+software+solutions;Exploring+AI+and+Cybersecurity;Designing+full-stack+systems;Learning+%7C+Building+%7C+Securing+%7C+Innovating" alt="Typing animation"/>
 
@@ -165,25 +165,37 @@ I like working across the complete engineering flow — **frontend → API → d
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 SecureChain
+### 01 · 🔐 SecureChain
 
-Blockchain-based decentralized identity and access-control platform with digital asset ownership and auditability.
+**DECENTRALIZED IDENTITY & ASSET CONTROL**
 
-**Stack:** Solidity · Ethereum · FastAPI · React · PostgreSQL · Redis
+A full-stack blockchain platform for **digital identity, role-based access control, NFT-based asset ownership and immutable auditing**.
 
-<a href="https://github.com/deva18-ai/SecureChain">View Repository →</a>
+**Built with**  
+`React` · `FastAPI` · `PostgreSQL` · `Solidity` · `Ethereum`
+
+**Engineering focus**  
+Identity verification · RBAC · Non-transferable assignments · Audit trails
+
+<a href="https://github.com/deva18-ai/SecureChain">EXPLORE PROJECT →</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏙️ Smart City Project
+### 02 · 🛡️ HoneyTrap
 
-Full-stack project exploring technology-driven solutions for urban environments.
+**HONEYPOT INTRUSION DETECTION & SOC**
 
-**Stack:** React · Spring Boot · REST APIs · Database
+A defensive cybersecurity platform that emulates services, captures activity, classifies threats and presents investigations through a SOC-style dashboard.
 
-<a href="https://github.com/deva18-ai/Smart-City-Project">View Repository →</a>
+**Built with**  
+`Python` · `FastAPI` · `React` · `TypeScript` · `Redis`
+
+**Engineering focus**  
+MITRE ATT&CK · Threat scoring · Incident correlation · Real-time events
+
+<a href="https://github.com/deva18-ai/Honeytrap">EXPLORE PROJECT →</a>
 
 </td>
 </tr>
@@ -191,29 +203,86 @@ Full-stack project exploring technology-driven solutions for urban environments.
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 AI Traffic Analyser
+### 03 · 🚦 AI Traffic Analyser
 
-AI and computer-vision project focused on traffic analysis with a web application layer.
+**COMPUTER VISION → TRAFFIC INTELLIGENCE**
 
-**Stack:** Python · AI · Computer Vision · React
+A full-stack AI system that processes images and videos to **detect vehicles, analyse traffic density and generate analytics**.
 
-<a href="https://github.com/deva18-ai/AI-Traffic-Analyser-Full-Stack">View Repository →</a>
+**Built with**  
+`Python` · `FastAPI` · `OpenCV` · `YOLOv8`
+
+**Engineering focus**  
+Object detection · Media processing · Analytics APIs · Web dashboard
+
+<a href="https://github.com/deva18-ai/AI-Traffic-Analyser-Full-Stack">EXPLORE PROJECT →</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛡️ Honeytrap
+### 04 · 🏙️ Smart City
 
-Cybersecurity project exploring deception-oriented security and threat-monitoring concepts.
+**SOFTWARE FOR URBAN SYSTEMS**
 
-**Focus:** Security Engineering · Web · Threat Awareness
+A full-stack Smart City platform exploring technology-driven solutions for **traffic, energy, disaster simulation and urban planning**.
 
-<a href="https://github.com/deva18-ai/Honeytrap">View Repository →</a>
+**Built with**  
+`React` · `Spring Boot` · `REST APIs`
+
+**Engineering focus**  
+Urban workflows · Simulation · Dashboards · Full-stack architecture
+
+<a href="https://github.com/deva18-ai/Smart-City-Project">EXPLORE PROJECT →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 05 · 🏥 AI Healthcare
+
+**RISK-AWARE CLINICAL SUPPORT**
+
+A responsive healthcare application exploring **AI-assisted workflows, risk analysis and clinical dashboard experiences**.
+
+**Built with**  
+`React` · `JavaScript` · `HTML5` · `CSS3`
+
+**Engineering focus**  
+Healthcare UX · Risk analysis · Responsive interfaces
+
+<a href="https://github.com/deva18-ai/AI-Healthcare">EXPLORE PROJECT →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 06 · 🔒 Vaultcore
+
+**SECURE DATA & APPLICATION FOUNDATION**
+
+A security-focused application concept built around **secure data handling, modular architecture and integration-ready system design**.
+
+**Engineering focus**  
+Security · Modularity · Scalability · Maintainable systems
+
+<a href="https://github.com/deva18-ai/Vaultcore">EXPLORE PROJECT →</a>
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**PROJECT PHILOSOPHY**
+
+<sub>Identify the problem → Design the system → Build the prototype → Test the workflow → Secure the implementation → Iterate</sub>
 
 </div>
 
