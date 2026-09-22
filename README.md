@@ -5,9 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+real-world+software+solutions;Exploring+AI+and+Cybersecurity;Designing+full-stack+systems;Learning+%7C+Building+%7C+Securing+%7C+Innovating" alt="Typing animation"/>
 
 <br/><br/>
-
 </div>
----
 <div align="center">
 
 ## ABOUT ME
