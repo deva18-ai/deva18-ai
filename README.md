@@ -85,7 +85,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 </tr>
 
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="38" alt="Ethereum"/><br/><sub><b>Ethereum</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" height="32" alt="Ethereum"/><br/><sub><b>Ethereum</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/><sub><b>Linux</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48"/><br/><sub><b>Nginx</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/><br/><sub><b>Figma</b></sub></td>
@@ -399,6 +399,8 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 </div>
 
+---
+
 # Coding Profiles
 
 <div align="center">
@@ -406,24 +408,49 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 <table>
 <tr>
 <td align="center" width="33.33%" valign="middle">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode"/><br/>
-<strong>LeetCode</strong><br/>
-<a href="https://leetcode.com/u/Devavardhan_0618/"><img src="https://img.shields.io/badge/OPEN_PROFILE-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="Open LeetCode profile"/></a>
+
+<a href="https://leetcode.com/u/Devavardhan_0618/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="44" alt="LeetCode"/>
+</a>
+
+<br/>
+<strong>LeetCode</strong>
+
+<br/>
+<a href="https://leetcode.com/u/Devavardhan_0618/"><img src="https://img.shields.io/badge/VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode profile"/></a>
+
 </td>
 <td align="center" width="33.33%" valign="middle">
-<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="42" alt="HackerRank"/><br/>
-<strong>HackerRank</strong><br/>
-<a href="https://www.hackerrank.com/profile/Devavardhan_0618"><img src="https://img.shields.io/badge/OPEN_PROFILE-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="Open HackerRank profile"/></a>
+
+<a href="https://www.hackerrank.com/profile/Devavardhan_0618">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="44" alt="HackerRank"/>
+</a>
+
+<br/>
+<strong>HackerRank</strong>
+
+<br/>
+<a href="https://www.hackerrank.com/profile/Devavardhan_0618"><img src="https://img.shields.io/badge/VIEW_PROFILE-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="View HackerRank profile"/></a>
+
 </td>
 <td align="center" width="33.33%" valign="middle">
-<img src="https://cdn.simpleicons.org/hackerearth/2C3454" width="42" alt="HackerEarth"/><br/>
-<strong>HackerEarth</strong><br/>
-<a href="https://www.hackerearth.com/@Devavardhan_0618/"><img src="https://img.shields.io/badge/OPEN_PROFILE-2C3454?style=flat-square&logo=hackerearth&logoColor=white" alt="Open HackerEarth profile"/></a>
+
+<a href="https://www.hackerearth.com/@Devavardhan_0618/">
+<img src="https://cdn.simpleicons.org/hackerearth/2C3454" width="44" alt="HackerEarth"/>
+</a>
+
+<br/>
+<strong>HackerEarth</strong>
+
+<br/>
+<a href="https://www.hackerearth.com/@Devavardhan_0618/"><img src="https://img.shields.io/badge/VIEW_PROFILE-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="View HackerEarth profile"/></a>
+
 </td>
 </tr>
 </table>
 
 </div>
+
 ---
 
 # Let's Connect
@@ -446,7 +473,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 <div align="center">
 
-**💖 Built with love by Devavardhan M I** &nbsp; • &nbsp; **⚡ Always open for collaborations**
+**💖 Built with love by **Devavardhan M I** &nbsp; • &nbsp; **⚡ Always open for collaborations**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Always+Learning;Always+Building;Always+Improving;Always+Exploring+Technology" alt="Footer typing animation"/>
 
