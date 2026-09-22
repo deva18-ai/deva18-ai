@@ -24,91 +24,131 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
 <table>
 <tr>
-<td width="30%">
-<img src="https://github.com/deva18-ai/deva18-ai/raw/main/assets/profile.jpg" width="100%" style="border-radius:10px"/>
-</td>
-<td width="70%" valign="top">
+<td width="30%" align="center" valign="middle">
 
-**Devavardhan Mohanraj**
-*Full-Stack Developer · AI Enthusiast · Cybersecurity Builder*
-
-📍 Coimbatore, Tamil Nadu, India&nbsp;&nbsp;|&nbsp;&nbsp;🎓 Cybersecurity — Sri Krishna College of Engineering and Technology
-
-I build practical software at the intersection of **full-stack development, artificial intelligence, cybersecurity, and decentralized systems**. I like shipping things that actually work, not just prototypes that look good in a demo.
-
-**My workflow:** `Understand → Design → Build → Secure → Test → Deploy → Improve`
-
-- 🤖 AI-powered applications & automation
-- 💻 Full-stack web apps & REST APIs
-- 🔐 Cybersecurity, authentication & access control
-- ⛓️ Blockchain, digital identity & Web3
-- 🧩 System design & problem solving
+<img src="assets/profile.jpg" width="220" alt="Devavardhan"/>
 
 </td>
+
+<td width="70%" valign="middle">
+
+### M. I. Devavardhan
+
+**Full-Stack Developer • AI Enthusiast • Cybersecurity Builder**
+
+Building practical software across **full-stack development, artificial intelligence, cybersecurity and blockchain**.
+
+I enjoy taking an idea from **concept → architecture → implementation → testing → deployment**, while keeping the system maintainable and secure.
+
+- **Focus:** Full-Stack Development, AI, Cybersecurity & Blockchain
+- **Projects:** SecureChain, AI Traffic Analyser, Smart City Project, Honeytrap
+- **Learning:** System Design, Secure Architecture, Cloud & Emerging Technologies
+- **Location:** Coimbatore, Tamil Nadu, India
+- **Education:** Cyber Security — Sri Krishna College of Engineering and Technology
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🧭 What I Build
+## Skills & Tools
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">💻<br/><b>Full-Stack</b><br/><sub>React · APIs · Databases</sub></td>
-<td align="center" width="25%">🤖<br/><b>AI & Automation</b><br/><sub>Computer Vision · Intelligent Tools</sub></td>
-<td align="center" width="25%">🔐<br/><b>Cybersecurity</b><br/><sub>Identity · Access Control</sub></td>
-<td align="center" width="25%">⛓️<br/><b>Blockchain</b><br/><sub>Smart Contracts · Web3</sub></td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/>Java</td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/>Python</td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48"/><br/>C</td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48"/><br/>JavaScript</td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48"/><br/>TypeScript</td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/>HTML5</td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/>CSS3</td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/>React</td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48"/><br/>Vite</td>
+<td align="center" width="10%"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br/>Tailwind</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/><br/>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48"/><br/>Spring Boot</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48"/><br/>FastAPI</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48"/><br/>Redis</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br/>Postman</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48"/><br/>OpenCV</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48"/><br/>PyTorch</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48"/><br/>TensorFlow</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=solidity&theme=dark" width="48"/><br/>Solidity</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/>Firebase</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48"/><br/>Vercel</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48"/><br/>Next.js</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48"/><br/>Android</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/><br/>Figma</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48"/><br/>Bootstrap</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/>Linux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48"/><br/>Nginx</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48"/><br/>CI/CD</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48"/><br/>Arduino</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="48"/><br/>Three.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mapbox&theme=dark" width="48"/><br/>Map Tools</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ethereum&theme=dark" width="48"/><br/>Ethereum</td>
 </tr>
 </table>
 
----
-
-## 🧰 Skills & Tools
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,solidity&theme=dark"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,nextjs&theme=dark"/>
-
-**Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,postgres,mysql,mongodb,redis&theme=dark"/>
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow&theme=dark"/>
-
-**Infra & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,firebase,vercel,ethereum&theme=dark"/>
+</div>
 
 ---
 
-## 🤝 Soft Skills
+## Soft Skills
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="20%">💬<br/><sub><b>Clear Communication</b></sub></td>
-<td align="center" width="20%">🧑‍🤝‍🧑<br/><sub><b>Team Collaboration</b></sub></td>
-<td align="center" width="20%">🧩<br/><sub><b>Problem-Solving</b></sub></td>
-<td align="center" width="20%">🎯<br/><sub><b>Ownership</b></sub></td>
-<td align="center" width="20%">💡<br/><sub><b>Innovation & Creativity</b></sub></td>
+<td align="center" width="20%"><br/>💬<br/><br/><b>Communication</b><br/><br/></td>
+<td align="center" width="20%"><br/>🤝<br/><br/><b>Team Collaboration</b><br/><br/></td>
+<td align="center" width="20%"><br/>🧩<br/><br/><b>Problem Solving</b><br/><br/></td>
+<td align="center" width="20%"><br/>💡<br/><br/><b>Creative Thinking</b><br/><br/></td>
+<td align="center" width="20%"><br/>🎯<br/><br/><b>Ownership</b><br/><br/></td>
 </tr>
+
 <tr>
-<td align="center" width="20%">📝<br/><sub><b>Documentation</b></sub></td>
-<td align="center" width="20%">🔍<br/><sub><b>Code Review & Quality</b></sub></td>
-<td align="center" width="20%">⏱️<br/><sub><b>Planning & Time Mgmt</b></sub></td>
-<td align="center" width="20%">🛡️<br/><sub><b>Security & Privacy</b></sub></td>
-<td align="center" width="20%">✅<br/><sub><b>Testing Mindset</b></sub></td>
+<td align="center"><br/>🔍<br/><br/><b>Critical Thinking</b><br/><br/></td>
+<td align="center"><br/>📚<br/><br/><b>Continuous Learning</b><br/><br/></td>
+<td align="center"><br/>📝<br/><br/><b>Documentation</b><br/><br/></td>
+<td align="center"><br/>⏱️<br/><br/><b>Time Management</b><br/><br/></td>
+<td align="center"><br/>🔐<br/><br/><b>Security Mindset</b><br/><br/></td>
+</tr>
+
+<tr>
+<td align="center"><br/>🔄<br/><br/><b>Adaptability</b><br/><br/></td>
+<td align="center"><br/>🧠<br/><br/><b>Analytical Thinking</b><br/><br/></td>
+<td align="center"><br/>🛠️<br/><br/><b>Project Execution</b><br/><br/></td>
+<td align="center"><br/>🎤<br/><br/><b>Presentation</b><br/><br/></td>
+<td align="center"><br/>🚀<br/><br/><b>Initiative</b><br/><br/></td>
 </tr>
 </table>
+
+</div>
 
 ---
 
