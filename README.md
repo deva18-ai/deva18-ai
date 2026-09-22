@@ -107,45 +107,179 @@ Intelligent Tools	Databases	Threat Detection	Decentralized Apps
                     ┌─────────────────────┐
                     │      DEPLOY 🚀      │
                     └─────────────────────┘
-🧰 Skills & Tools
+## 🧰 Skills & Tools
 
 <div align="center">
 
-Languages
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" />
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="52"/><br/>
+<b>Java</b>
+</td>
 
-<br><br>
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="52"/><br/>
+<b>JavaScript</b>
+</td>
 
-Frontend
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="52"/><br/>
+<b>Python</b>
+</td>
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript" />
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="52"/><br/>
+<b>React</b>
+</td>
 
-<br><br>
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="52"/><br/>
+<b>Node.js</b>
+</td>
 
-Backend & Databases
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="52"/><br/>
+<b>Express</b>
+</td>
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mysql,mongodb" />
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="52"/><br/>
+<b>Spring Boot</b>
+</td>
 
-<br><br>
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="52"/><br/>
+<b>MongoDB</b>
+</td>
 
-Development & DevOps
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52"/><br/>
+<b>MySQL</b>
+</td>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="52"/><br/>
+<b>C</b>
+</td>
 
-<br><br>
+</tr>
+<tr>
 
-AI / Computer Vision
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="52"/><br/>
+<b>Git</b>
+</td>
 
-<img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="52"/><br/>
+<b>GitHub</b>
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="52"/><br/>
+<b>Postman</b>
+</td>
 
-Blockchain / Web3
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="52"/><br/>
+<b>VS Code</b>
+</td>
 
-<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="52"/><br/>
+<b>HTML5</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="52"/><br/>
+<b>CSS3</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="52"/><br/>
+<b>Bootstrap</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52"/><br/>
+<b>Docker</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="52"/><br/>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="52"/><br/>
+<b>Redis</b>
+</td>
+
+</tr>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="52"/><br/>
+<b>FastAPI</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="52"/><br/>
+<b>OpenCV</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="52"/><br/>
+<b>PyTorch</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" width="52"/><br/>
+<b>Solidity</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ethereum&theme=dark" width="52"/><br/>
+<b>Ethereum</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="52"/><br/>
+<b>TypeScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="52"/><br/>
+<b>Vite</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="52"/><br/>
+<b>Tailwind CSS</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="52"/><br/>
+<b>Firebase</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="52"/><br/>
+<b>Vercel</b>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<sub>Languages • Frontend • Backend • Databases • DevOps • AI • Blockchain</sub>
 
 </div>
+
+---
 
 🧠 Soft Skills
 
