@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+real-world+software+solutions;Exploring+AI+and+Cybersecurity;Designing+full-stack+systems;Learning+%7C+Building+%7C+Securing+%7C+Innovating" alt="Typing animation"/>
 </div>
-## ABOUT ME
+## **ABOUT ME**
 
 <table>
 <tr>
@@ -433,49 +433,11 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-### GitHub
-<sub>Projects · Code · Collaboration</sub>
-<a href="https://github.com/deva18-ai">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</td>
-<td align="center" width="25%">
-
-### LinkedIn
-<sub>Professional · Networking · Opportunities</sub>
-<a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</td>
-<td align="center" width="25%">
-
-### Email
-<sub>Projects · Collaboration · Contact</sub>
-<a href="mailto:devavardhanmohanraj@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</td>
-<td align="center" width="25%">
-
-### Instagram
-<sub>Creative · Personal · Updates</sub>
-<a href="https://www.instagram.com/r.a.g.a_0618/">
-<img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-</td>
+<td align="center" width="25%"><b>GitHub</b><br/><sub>Code · Projects · Open Source</sub><br/><a href="https://github.com/deva18-ai"><img src="https://img.shields.io/badge/VIEW_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></td>
+<td align="center" width="25%"><b>LinkedIn</b><br/><sub>Professional · Networking</sub><br/><a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+<td align="center" width="25%"><b>Email</b><br/><sub>Projects · Collaboration</sub><br/><a href="mailto:devavardhanmohanraj@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></td>
+<td align="center" width="25%"><b>Instagram</b><br/><sub>Creative · Updates</sub><br/><a href="https://www.instagram.com/r.a.g.a_0618/"><img src="https://img.shields.io/badge/FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a></td>
 </tr>
 </table>
-
-<strong>OPEN TO BUILDING · LEARNING · COLLABORATING</strong>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Build+with+purpose.;Learn+continuously.;Secure+by+design.;Keep+shipping." alt="Footer animation"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:111827,100:0B1220&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
