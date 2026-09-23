@@ -153,7 +153,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 
 <td width="33.33%" valign="top">
 
-### 🛡️ HoneyTrap
+### 🛡️ HoneyPot
 
 **Cybersecurity deception platform** focused on capturing suspicious activity, monitoring events and supporting threat investigation.
 
