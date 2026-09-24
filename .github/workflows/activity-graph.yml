@@ -1,0 +1,33 @@
+name: Update GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: deva18-ai
+          options: theme=github-compact&bg_color=F8FAFC&color=0F172A&line=2563EB&point=58A6FF&area=true&hide_border=true&custom_title=DEVAVARDHAN%20M%20I%20%E2%80%94%20GitHub%20Activity&radius=10&height=300&days=31
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
