@@ -12,7 +12,7 @@
 
 <img src="IMG_20251010_123938.jpg.jpeg" width="220" alt="DEVAVARDHAN M I"/>
 
-<b>DEVAVARDHAN M I</b>
+<b>DEVAVARDHAN M I</b><br/>
 <sub>Cyber Security · SKCET</sub><br/>
 <sub>Coimbatore, Tamil Nadu, India</sub>
 
