@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:111827,100:2563EB&height=190&section=header&text=DEVAVARDHAN%20M%20I&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20%7C%20AI%20%7C%20CYBERSECURITY%20%7C%20BLOCKCHAIN&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:111827,100:2563EB&height=190&section=header&text=DEVAVARDHAN%20M%20I&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20%7C%20OPEN-SOURCE%20%7C%20AI%20%7C%20CYBERSECURITY%20%7C%20BLOCKCHAIN&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+real-world+software+solutions;Exploring+AI+and+Cybersecurity;Designing+full-stack+systems;Learning+%7C+Building+%7C+Securing+%7C+Innovating" alt="Typing animation"/>
 </div>
@@ -21,7 +21,7 @@
 
 ### Building practical software with a security-first mindset.
 
-I'm a **Cyber Security student and developer** focused on building practical solutions across **full-stack development, artificial intelligence, computer vision, cybersecurity and blockchain**.
+I'm a **Cyber Security student, full-stack developer and open-source developer** focused on building practical solutions across **full-stack development, artificial intelligence, computer vision, cybersecurity and blockchain**.
 
 I enjoy working across the complete engineering cycle — from **UI and API design** to **databases, system architecture, testing and security**.
 
@@ -31,6 +31,7 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 | 🤖 **AI & Vision** | AI applications · Computer vision · Automation |
 | 🔐 **Cybersecurity** | Secure application design · Identity & access · Security-focused systems |
 | ⛓️ **Blockchain** | Smart contracts · Digital identity · Web3 applications |
+| 🌐 **Open Source** | Public projects · Developer tools · Collaboration · Community-driven development |
 
 **Engineering mindset:** Understand → Design → Build → Test → Secure → Improve
 
@@ -347,6 +348,16 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 **BLOCKCHAIN**
 
 <sub>Smart contracts<br/>Digital identity<br/>Web3 systems</sub>
+
+</td>
+
+<td align="center" width="20%" valign="top">
+
+### 🌐
+
+**OPEN SOURCE**
+
+<sub>Public projects<br/>Developer collaboration<br/>Community contribution</sub>
 
 </td>
 
