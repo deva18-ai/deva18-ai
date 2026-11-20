@@ -481,7 +481,6 @@ I enjoy working across the complete engineering cycle — from **UI and API desi
 <td align="center" width="25%"><a href="https://github.com/deva18-ai"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub"/></a><br/><strong>GitHub</strong><br/><sub>Projects & Code</sub></td>
 <td align="center" width="25%"><a href="https://www.linkedin.com/in/devavardhan-mohanraj-a37a9a3bb/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br/><strong>LinkedIn</strong><br/><sub>Professional Network</sub></td>
 <td align="center" width="25%"><a href="mailto:devavardhanmohanraj@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Email"/></a><br/><strong>Email</strong><br/><sub>Let's Collaborate</sub></td>
-<td align="center" width="25%"><a href="https://www.instagram.com/r.a.g.a_0618/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram"/></a><br/><strong>Instagram</strong><br/><sub>Creative Updates</sub></td>
 </tr>
 </table>
 
